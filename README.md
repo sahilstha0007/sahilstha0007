@@ -25,7 +25,7 @@
 ## 🎲 Fact of the day
 
 <!-- FACT:START -->
-🎲 **🧬 My HP BIOS refused to expose amd_pstate — so I patched the kernel source myself**
+🎲 **🖥️ My Neovim config is its own GitHub repo with theme commits**
 <!-- FACT:END -->
 
 ## 🚀 Things I've Built
@@ -50,8 +50,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Quote of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Talk is cheap. Show me the code.
-> — *Linus Torvalds*
+> Simplicity is prerequisite for reliability.
+> — *Edsger W. Dijkstra*
 <!-- QUOTE:END -->
 
 <details>
