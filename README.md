@@ -4,7 +4,7 @@
 
 [![Open to work](https://img.shields.io/badge/⬢_STATUS-open_to_backend_%2F_AI--ML_internships-00ff9c?style=for-the-badge&labelColor=0D1117)](mailto:sahiltuchhe123@gmail.com)
 [![Portfolio](https://img.shields.io/badge/▸_portfolio-sahiltuchheshrestha.com.np-00b3ff?style=for-the-badge&labelColor=0D1117)](https://sahiltuchheshrestha.com.np)
-[![💬 Guestbook](https://img.shields.io/badge/▸_sign_my_guestbook-issue_#1-b388ff?style=for-the-badge&labelColor=0D1117)](https://github.com/sahilstha0007/sahilstha0007/issues/1)
+[![💬 Guestbook](https://img.shields.io/badge/▸_sign_my_guestbook-issue_%231-b388ff?style=for-the-badge&labelColor=0D1117)](https://github.com/sahilstha0007/sahilstha0007/issues/1)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=800&color=00FF9C&center=true&vCenter=true&random=false&width=640&lines=+%24+patching+kernels+the+BIOS+said+couldn't+boot...;+%24+TypeScript+%E2%86%92+Next.js+%E2%86%92+Laravel+%E2%86%92+AWS;+%24+cat+%2Fetc%2Fpersonality+%7C+grep+-i+arch;+%24+ssh+recruiter%40sahil.dev+-p+hire_me" alt="typing" /></a>
 
@@ -42,11 +42,11 @@ Build web apps end-to-end. Break nothing. Rice everything.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Portfolio](https://github.com/sahilstha0007/sahiltuchheshrestha.com.np)** | My corner of the internet | Next.js |
+| **[Portfolio](https://sahiltuchheshrestha.com.np)** 🌐 | My corner of the internet | Next.js |
 | **[Lumin](https://github.com/sahilstha0007/lumin)** | Shop app running on my own AWS infra | Laravel · Next.js |
 | **[Finest](https://github.com/sahilstha0007/Finest)** | Digital marketplace for artists | JavaScript |
 | **[CustomNeovim](https://github.com/sahilstha0007/CustomNeovim)** | My hand-tuned editor distro | Lua |
-| **[dotfiles](https://github.com/sahilstha0007/dotfiles)** | The entire rice, git-backed | shell · lua |
+| **dotfiles** *(private)* | The entire rice, git-backed | shell · lua |
 
 ---
 
@@ -129,8 +129,6 @@ resolving dependencies... done.
 </picture>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahilstha0007&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/sahilstha0007)
 
 <i>`$ echo "thanks for scrolling" >> ~/.visitors`</i>
 
