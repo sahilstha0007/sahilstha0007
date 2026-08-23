@@ -12,11 +12,18 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: interactive-profile
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Sync latest
+        run: git pull --rebase=merges origin main
 
       - name: Update guestbook + daily quote
         env:

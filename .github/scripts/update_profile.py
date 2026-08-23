@@ -24,18 +24,6 @@ QUOTES = [
     ("Rebooting is the sincerest form of flattery.", "Every Arch user"),
 ]
 
-FACTS = [
-    "🧬 My HP BIOS refused to expose amd_pstate — so I patched the kernel source myself",
-    "🔥 My CPU runs with power limits forced to 60W via ryzenadj (\"the jailbreak\")",
-    "🎨 Change my wallpaper → every app re-colors itself (matugen)",
-    "☁️ I deployed VPC → ALB → Auto Scaling → RDS for a college project",
-    "📝 Every commit I push is SSH-signed — look for the Verified badge",
-    "⌨️ ctrl+r opens a full-screen searchable database of my entire shell history",
-    "📸 Super+Alt+A → screenshot → annotate → clipboard, in one flow",
-    "💾 My dotfiles auto-live in a private git repo — reinstall = one clone",
-    "🐍 There's literally a snake eating my contribution graph on this page",
-    "🖥️ My Neovim config is its own GitHub repo with theme commits",
-]
 
 
 def api(path):
@@ -69,9 +57,6 @@ def quote():
     return f'> [!NOTE]\n> {q}\n> — *{a}*'
 
 
-def fact():
-    return f"🎲 **{random.choice(FACTS)}**"
-
 
 def splice(markers, content):
     pattern = re.compile(
@@ -83,5 +68,4 @@ def splice(markers, content):
 
 splice("GUESTBOOK", guestbook())
 splice("QUOTE", quote())
-splice("FACT", fact())
 print("README updated")

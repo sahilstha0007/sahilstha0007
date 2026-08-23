@@ -1,34 +1,44 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:bb70f2&height=180&section=header&text=Sahil%20Shrestha&fontSize=46&fontColor=fff&animation=twinkling&desc=full-stack%20dev%20%E2%80%A2%20kernel%20patcher%20%E2%80%A2%20arch%20ricer&descAlignY=72&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:00b3ff,100:7a2ff2&height=170&section=header&text=SAHIL%20SHRESTHA&fontSize=44&fontColor=fff&animation=twinkling&desc=%24%20whoami%20%E2%86%92%20full-stack%20dev%20%E2%80%A2%20kernel%20patcher%20%E2%80%A2%20arch%20ricer&descAlignY=74&descSize=17&stroke=00ff9c&strokeWidth=1" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=7AA2F7&center=true&vCenter=true&random=false&width=560&lines=I+patch+my+own+kernel;TypeScript+%E2%86%92+Next.js+%E2%86%92+Laravel;Arch+Linux+%3D+personality;Sign+my+guestbook+%F0%9F%91%87" alt="typing" /></a>
+[![Open to work](https://img.shields.io/badge/⬢_STATUS-open_to_backend_%2F_AI--ML_internships-00ff9c?style=for-the-badge&labelColor=0D1117)](mailto:sahiltuchhe123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/▸_portfolio-sahiltuchheshrestha.com.np-00b3ff?style=for-the-badge&labelColor=0D1117)](https://sahiltuchheshrestha.com.np)
+[![💬 Guestbook](https://img.shields.io/badge/▸_sign_my_guestbook-issue_#1-b388ff?style=for-the-badge&labelColor=0D1117)](https://github.com/sahilstha0007/sahilstha0007/issues/1)
 
-[![Portfolio](https://img.shields.io/badge/🌐_portfolio-sahiltuchheshrestha.com.np-7AA2F7?style=for-the-badge)](https://sahiltuchheshrestha.com.np)
-[![💬 Sign my guestbook](https://img.shields.io/badge/💬_sign_my_guestbook-click_here-purple?style=for-the-badge)](https://github.com/sahilstha0007/sahilstha0007/issues/1)
-![Profile views](https://komarev.com/ghpvc/?username=sahilstha0007&color=blueviolet&style=for-the-badge)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=800&color=00FF9C&center=true&vCenter=true&random=false&width=640&lines=+%24+patching+kernels+the+BIOS+said+couldn't+boot...;+%24+TypeScript+%E2%86%92+Next.js+%E2%86%92+Laravel+%E2%86%92+AWS;+%24+cat+%2Fetc%2Fpersonality+%7C+grep+-i+arch;+%24+ssh+recruiter%40sahil.dev+-p+hire_me" alt="typing" /></a>
+
+![Profile views](https://komarev.com/ghpvc/?username=sahilstha0007&color=00ff9c&style=flat-square&label=VISITORS)
 
 </div>
 
-## ⚡ About Me
+---
 
-- 🎓 **BIT student** @ Mid Valley International College, Kathmandu 🇳🇵
-- 🔭 Full-stack web apps — **Next.js / TypeScript** front, **Laravel / Node.js** back
-- ☁️ Built & deployed my own AWS stack: VPC → ALB → Auto Scaling → RDS
-- 🖥️ Daily driver: **Arch + Hyprland + Neovim** on a self-patched zen kernel (HP BIOS said no to `amd_pstate`, I said yes)
-- 💡 If a tool exists, I've probably rewritten my config for it
+## ~/whoami
+
+```console
+sahil@github:~$ ls ./identity/
+bit-student-kathmandu    full-stack-developer    linux-power-user
+aws-deployer             llm-tinkerer            ex-distro-hopper*
+
+sahil@github:~$ cat mission.txt
+Build web apps end-to-end. Break nothing. Rice everything.
+
+*tried Fedora. EndeavourOS. Parrot. Came back to Arch. They always come back.
+```
+
+- 🔭 Full-stack: **Next.js / TypeScript** front · **Laravel / Node.js** back
+- ☁️ Deployed my own AWS stack — VPC → ALB → Auto Scaling → RDS
+- 🧬 HP BIOS refused `amd_pstate` → **I patched the kernel source instead**
+- 🤖 Runs local LLM pipelines & model routers for free-tier AI coding
 
 <div align="center">
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,laravel,php,python,lua,bash,mongodb,mysql,prisma,docker,aws,arch,linux,vim,git&theme=dark&perline=9" /></a>
 </div>
 
-## 🎲 Fact of the day
+---
 
-<!-- FACT:START -->
-🎲 **🖥️ My Neovim config is its own GitHub repo with theme commits**
-<!-- FACT:END -->
-
-## 🚀 Things I've Built
+## ~/projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -38,33 +48,32 @@
 | **[CustomNeovim](https://github.com/sahilstha0007/CustomNeovim)** | My hand-tuned editor distro | Lua |
 | **[dotfiles](https://github.com/sahilstha0007/dotfiles)** | The entire rice, git-backed | shell · lua |
 
-## 🎮 Interactive Zone
+---
 
-### 💬 Guestbook *(live — bot updates this page)*
+## 💬 Guestbook *(live — a bot writes visitors into this page)*
+
 <!-- GUESTBOOK:START -->
 _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilstha0007/issues/1)_
 <!-- GUESTBOOK:END -->
 
-> 💡 Comment on [issue #1](https://github.com/sahilstha0007/sahilstha0007/issues/1) and a GitHub Action writes your name right here.
-
-### 🧠 Quote of the day
+### 🧠 Transmission of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Simplicity is prerequisite for reliability.
-> — *Edsger W. Dijkstra*
+> Talk is cheap. Show me the code.
+> — *Linus Torvalds*
 <!-- QUOTE:END -->
 
 <details>
-<summary><b>🖥️ Open a terminal on me</b></summary>
+<summary><b>🖥️ ssh guest@sahil — open a terminal on me</b></summary>
 
 ```console
 $ neofetch
 OS        : Arch Linux x86_64 (btw)
-WM        : Hyprland (matugen-themed)
+WM        : Hyprland (matugen-themed, wallpaper-reactive)
 Terminal  : kitty · 20000-line scrollback
-Editor    : nvim — 100% mine, CustomNeovim repo
+Editor    : CustomNeovim — see pinned repo
 Shell     : zsh + atuin + mise + fzf
-Kernel    : 7.1.2-zen-devmode-dirty   ← yes. self-patched.
+Kernel    : 7.1.2-zen-devmode-dirty   ← self-patched. HP BIOS lost.
 Uptime    : longer than my sleep schedule
 
 $ sudo systemctl status motivation
@@ -77,18 +86,22 @@ resolving dependencies... done.
 </details>
 
 <details>
-<summary><b>🔓 Click to unlock the rice secrets</b></summary>
+<summary><b>🔓 Decrypt: secrets of the rice</b></summary>
 
-- 🔥 CPU power limits forced via `ryzenadj` — 60W / 90°C ("the jailbreak")
-- 🎨 Every app re-colors itself via **matugen** when I change wallpaper
-- ⌨️ `ctrl+r` = full-screen synced history (atuin), `ctrl+t` = fd-powered fuzzy find
-- 📸 `Super+Alt+A` → annotate screenshots with satty → clipboard
-- 💾 Dotfiles survive anything: bare git repo → auto-pushed to private GitHub
-- ✍️ Every commit SSH-signed — look for the **Verified** badge below
+```diff
++ CPU power limits forced to 60W / 90°C via ryzenadj ("the jailbreak")
++ wallpaper change → every app re-colors itself (matugen pipeline)
++ ctrl+r = full-screen synced shell history (atuin)
++ Super+Alt+A → screenshot → annotate → clipboard, zero clicks wasted
++ dotfiles: bare git repo → auto-pushed private → reinstall = 1 clone
++ every commit SSH-signed — look for the Verified badge below
+```
 
 </details>
 
-## 📊 Stats & Graphs
+---
+
+## 📊 Telemetry
 
 <div align="center">
 
@@ -119,8 +132,8 @@ resolving dependencies... done.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahilstha0007&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/sahilstha0007)
 
-<i>⭐ Star something if it helped you — it powers my pacman addiction</i>
+<i>`$ echo "thanks for scrolling" >> ~/.visitors`</i>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7a2ff2,50:00b3ff,100:00ff9c&height=100&section=footer" />
