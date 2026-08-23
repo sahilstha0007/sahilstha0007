@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Sahil%20Shrestha&fontSize=46&fontColor=fff&animation=fadeIn&desc=full-stack%20dev%20%E2%80%A2%20kernel%20patcher%20%E2%80%A2%20arch%20ricer&descAlignY=72&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:bb70f2&height=180&section=header&text=Sahil%20Shrestha&fontSize=46&fontColor=fff&animation=twinkling&desc=full-stack%20dev%20%E2%80%A2%20kernel%20patcher%20%E2%80%A2%20arch%20ricer&descAlignY=72&descSize=18" />
 
 <div align="center">
 
@@ -21,6 +21,12 @@
 <div align="center">
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,laravel,php,python,lua,bash,mongodb,mysql,prisma,docker,aws,arch,linux,vim,git&theme=dark&perline=9" /></a>
 </div>
+
+## 🎲 Fact of the day
+
+<!-- FACT:START -->
+🎲 **🧬 My HP BIOS refused to expose amd_pstate — so I patched the kernel source myself**
+<!-- FACT:END -->
 
 ## 🚀 Things I've Built
 
@@ -86,10 +92,14 @@ resolving dependencies... done.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilstha0007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilstha0007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilstha0007&theme=tokyonight" width="32%" alt="profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilstha0007&theme=tokyonight" width="32%" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahilstha0007&theme=tokyonight" width="32%" alt="productive time" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sahilstha0007&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilstha0007&theme=tokyonight" width="49%" alt="langs by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilstha0007&theme=tokyonight" width="49%" alt="langs by commit" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilstha0007&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="98%" alt="activity graph" />
 
 </div>
 
