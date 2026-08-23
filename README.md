@@ -44,8 +44,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Quote of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Weeks of coding can save you hours of planning.
-> — *Unknown*
+> Deleted code is debugged code.
+> — *Jeff Sickel*
 <!-- QUOTE:END -->
 
 <details>
