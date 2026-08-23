@@ -44,8 +44,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Quote of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Talk is cheap. Show me the code.
-> — *Linus Torvalds*
+> Weeks of coding can save you hours of planning.
+> — *Unknown*
 <!-- QUOTE:END -->
 
 <details>
