@@ -59,8 +59,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Transmission of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Deleted code is debugged code.
-> — *Jeff Sickel*
+> Make it work, make it right, make it fast.
+> — *Kent Beck*
 <!-- QUOTE:END -->
 
 <details>
