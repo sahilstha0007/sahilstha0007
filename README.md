@@ -86,16 +86,14 @@ resolving dependencies... done.
 </details>
 
 <details>
-<summary><b>🔓 Decrypt: secrets of the rice</b></summary>
+<summary><b>🔓 Click to unlock the rice secrets</b></summary>
 
-```diff
-+ CPU power limits forced to 60W / 90°C via ryzenadj ("the jailbreak")
-+ wallpaper change → every app re-colors itself (matugen pipeline)
-+ ctrl+r = full-screen synced shell history (atuin)
-+ Super+Alt+A → screenshot → annotate → clipboard, zero clicks wasted
-+ dotfiles: bare git repo → auto-pushed private → reinstall = 1 clone
-+ every commit SSH-signed — look for the Verified badge below
-```
+- 🔥 CPU power limits forced to 60W / 90°C via `ryzenadj` ("the jailbreak")
+- 🎨 Every app re-colors itself via **matugen** when I change wallpaper
+- ⌨️ `ctrl+r` = full-screen synced history (atuin), `ctrl+t` = fd-powered fuzzy find
+- 📸 `Super+Alt+A` → screenshot → annotate with satty → clipboard
+- 💾 Dotfiles survive anything: bare git repo → auto-pushed to private GitHub
+- ✍️ Every commit SSH-signed — look for the **Verified** badge below
 
 </details>
 
