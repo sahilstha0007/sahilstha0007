@@ -59,8 +59,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Transmission of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Talk is cheap. Show me the code.
-> — *Linus Torvalds*
+> Simplicity is prerequisite for reliability.
+> — *Edsger W. Dijkstra*
 <!-- QUOTE:END -->
 
 <details>
