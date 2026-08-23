@@ -44,8 +44,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Quote of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Deleted code is debugged code.
-> — *Jeff Sickel*
+> Talk is cheap. Show me the code.
+> — *Linus Torvalds*
 <!-- QUOTE:END -->
 
 <details>
