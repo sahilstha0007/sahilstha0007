@@ -59,8 +59,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Transmission of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Simplicity is prerequisite for reliability.
-> — *Edsger W. Dijkstra*
+> Deleted code is debugged code.
+> — *Jeff Sickel*
 <!-- QUOTE:END -->
 
 <details>
