@@ -59,8 +59,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Transmission of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Rebooting is the sincerest form of flattery.
-> — *Every Arch user*
+> Deleted code is debugged code.
+> — *Jeff Sickel*
 <!-- QUOTE:END -->
 
 <details>
