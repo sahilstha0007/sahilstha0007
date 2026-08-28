@@ -59,8 +59,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Transmission of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Deleted code is debugged code.
-> — *Jeff Sickel*
+> First, solve the problem. Then, write the code.
+> — *John Johnson*
 <!-- QUOTE:END -->
 
 <details>
