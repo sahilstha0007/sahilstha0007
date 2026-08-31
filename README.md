@@ -59,8 +59,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Transmission of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> It works on my machine.
-> — *Every developer, eventually*
+> Any sufficiently advanced bug is indistinguishable from a feature.
+> — *Eric S. Raymond*
 <!-- QUOTE:END -->
 
 <details>
