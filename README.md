@@ -59,8 +59,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Transmission of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Rebooting is the sincerest form of flattery.
-> — *Every Arch user*
+> Simplicity is prerequisite for reliability.
+> — *Edsger W. Dijkstra*
 <!-- QUOTE:END -->
 
 <details>
