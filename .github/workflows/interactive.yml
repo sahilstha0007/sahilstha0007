@@ -31,10 +31,18 @@ jobs:
           REPO: ${{ github.repository }}
         run: python3 .github/scripts/update_profile.py
 
+      - name: Load signing key
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.SSH_SIGNING_KEY }}
+
       - name: Commit changes
         run: |
           git config user.name "profile-bot"
-          git config user.email "actions@users.noreply.github.com"
+          git config user.email "146646189+sahilstha0007@users.noreply.github.com"
+          git config gpg.format ssh
+          git config user.signingkey "key::$(ssh-add -L | awk '{print $1, $2}' | head -1)"
+          git config commit.gpgsign true
           if ! git diff --quiet; then
             git commit -am ":sparkles: profile refresh [skip ci]"
           fi
@@ -58,10 +66,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Load signing key
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.SSH_SIGNING_KEY }}
+
       - name: Commit 3D graph
         run: |
           git config user.name "profile-bot"
-          git config user.email "actions@users.noreply.github.com"
+          git config user.email "146646189+sahilstha0007@users.noreply.github.com"
+          git config gpg.format ssh
+          git config user.signingkey "key::$(ssh-add -L | awk '{print $1, $2}' | head -1)"
+          git config commit.gpgsign true
           git add profile-3d-contrib
           if ! git diff --cached --quiet; then
             git commit -m ":cuberoot: 3d graph refresh [skip ci]"
