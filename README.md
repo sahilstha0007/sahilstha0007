@@ -59,8 +59,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Transmission of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Weeks of coding can save you hours of planning.
-> — *Unknown*
+> First, solve the problem. Then, write the code.
+> — *John Johnson*
 <!-- QUOTE:END -->
 
 <details>
