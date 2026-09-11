@@ -59,8 +59,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Transmission of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> Weeks of coding can save you hours of planning.
-> — *Unknown*
+> There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+> — *Anonymous*
 <!-- QUOTE:END -->
 
 <details>
