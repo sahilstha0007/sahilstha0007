@@ -59,8 +59,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Transmission of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
-> — *Anonymous*
+> Simplicity is prerequisite for reliability.
+> — *Edsger W. Dijkstra*
 <!-- QUOTE:END -->
 
 <details>
