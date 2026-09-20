@@ -59,8 +59,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ### 🧠 Transmission of the day
 <!-- QUOTE:START -->
 > [!NOTE]
-> It works on my machine.
-> — *Every developer, eventually*
+> Talk is cheap. Show me the code.
+> — *Linus Torvalds*
 <!-- QUOTE:END -->
 
 <details>
