@@ -132,19 +132,14 @@ resolving dependencies... done.
 
 ---
 
-## Activity
+## `./activity`
 
-<div align="center">
+`● LIVE` **Recent commits + GitHub activity**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilstha0007&theme=tokyonight" width="49%" alt="GitHub statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilstha0007&theme=tokyonight" width="49%" alt="Most-used languages by repository" />
-
-<p><a href="https://github.com/sahilstha0007?tab=overview">See my GitHub activity</a></p>
-
-</div>
-
-<details>
-<summary><b>More activity visualizations</b></summary>
+<!-- RECENT_ACTIVITY:START -->
+> [!NOTE]
+> The live feed is waiting for its first refresh. Browse [recent commits](https://github.com/sahilstha0007/commits/main/) or [open the full activity overview](https://github.com/sahilstha0007?tab=overview).
+<!-- RECENT_ACTIVITY:END -->
 
 ### 3D contribution cube
 
@@ -154,13 +149,15 @@ resolving dependencies... done.
 
 ### Contribution snake
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilstha0007/sahilstha0007/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilstha0007/sahilstha0007/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sahilstha0007/sahilstha0007/output/github-snake.svg" loading="lazy" />
+  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sahilstha0007/sahilstha0007/output/github-snake.svg" loading="lazy" />
 </picture>
 
-</details>
+</div>
 
 ---
 
