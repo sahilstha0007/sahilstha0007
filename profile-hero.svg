@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sahil Tuchhe Shrestha — full-stack developer</title>
+  <desc id="desc">A dark terminal-inspired profile banner with a status indicator, developer identity, and technical stack.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111c"/>
+      <stop offset="0.55" stop-color="#0b1724"/>
+      <stop offset="1" stop-color="#101b27"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#72f1bb"/>
+      <stop offset="0.55" stop-color="#54d6e8"/>
+      <stop offset="1" stop-color="#f6b86b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="10%" r="72%">
+      <stop offset="0" stop-color="#1a806e" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#1a806e" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#7ca9ad" stroke-opacity="0.11" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" fill="url(#background)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <rect width="1200" height="360" fill="url(#glow)"/>
+  <circle cx="1000" cy="34" r="155" fill="#36d8ad" opacity="0.12" filter="url(#blur)"/>
+  <path d="M0 20H1200M0 340H1200" fill="none" stroke="#72f1bb" stroke-opacity="0.16"/>
+  <path d="M40 0V360M1160 0V360" fill="none" stroke="#72f1bb" stroke-opacity="0.08"/>
+  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace">
+    <text x="56" y="48" fill="#72f1bb" font-size="14" letter-spacing="2.5">PROFILE://SAHIL_TUCHHE_SHRESTHA</text>
+    <circle cx="58" cy="73" r="4" fill="#72f1bb"/>
+    <text x="72" y="78" fill="#a7c2c3" font-size="12" letter-spacing="1.5">AVAILABLE FOR WORK</text>
+    <text x="56" y="158" fill="#f2f7f7" font-size="68" font-weight="700" letter-spacing="-2">SAHIL</text>
+    <text x="56" y="219" fill="#f2f7f7" font-size="45" font-weight="600" letter-spacing="-1">TUCHHE SHRESTHA</text>
+    <text x="60" y="260" fill="#a7c2c3" font-size="15" letter-spacing="1.2">FULL-STACK DEVELOPER <tspan fill="#72f1bb">/</tspan> SYSTEMS BUILDER</text>
+    <text x="60" y="304" fill="#54d6e8" font-size="12" letter-spacing="1.6">NEPAL // WEB · CLOUD · LINUX · AI</text>
+    <g transform="translate(760 76)">
+      <rect width="360" height="224" rx="16" fill="#0b1622" stroke="#2b5961" stroke-width="1.5"/>
+      <rect width="360" height="40" rx="16" fill="#122635"/>
+      <path d="M0 40H360" stroke="#2b5961" stroke-width="1.5"/>
+      <circle cx="25" cy="20" r="5" fill="#f6b86b"/>
+      <circle cx="43" cy="20" r="5" fill="#72f1bb"/>
+      <circle cx="61" cy="20" r="5" fill="#54d6e8"/>
+      <text x="82" y="25" fill="#a7c2c3" font-size="12">~/profile — zsh</text>
+      <text x="22" y="72" fill="#72f1bb" font-size="13"><tspan>$</tspan> whoami</text>
+      <text x="22" y="96" fill="#d7e5e5" font-size="13">full-stack developer</text>
+      <text x="22" y="132" fill="#72f1bb" font-size="13"><tspan>$</tspan> stack --list</text>
+      <text x="22" y="156" fill="#d7e5e5" font-size="13">next.js · laravel · aws</text>
+      <text x="22" y="192" fill="#72f1bb" font-size="13"><tspan>$</tspan> uptime --human</text>
+      <text x="22" y="216" fill="#f6b86b" font-size="13">shipping since 2024</text>
+    </g>
+    <path d="M690 330H1140" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.65"/>
+  </g>
+</svg>

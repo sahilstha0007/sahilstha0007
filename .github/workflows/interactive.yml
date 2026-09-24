@@ -11,6 +11,7 @@ on:
 
 permissions:
   contents: write
+  issues: read
 
 concurrency:
   group: interactive-profile
@@ -19,13 +20,16 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Sync latest
         run: git pull --rebase=merges origin main
 
-      - name: Update guestbook + daily quote
+      - name: Update guestbook and daily quote
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
@@ -41,16 +45,18 @@ jobs:
           git config user.name "profile-bot"
           git config user.email "146646189+sahilstha0007@users.noreply.github.com"
           git config gpg.format ssh
-          git config user.signingkey "key::$(ssh-add -L | awk '{print $1, $2}' | head -1)"
+          read -r signing_key_type signing_key _ <<< "$(ssh-add -L)"
+          git config user.signingkey "key::${signing_key_type} ${signing_key}"
           git config commit.gpgsign true
-          if ! git diff --quiet; then
-            git commit -am ":sparkles: profile refresh [skip ci]"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README already up to date"
+            exit 0
           fi
-          # retry: render3d pushes to main in parallel, so a push can be
-          # rejected as non-fast-forward — rebase onto latest and retry
-          for i in 1 2 3 4 5; do
+          git commit -m "chore: refresh profile content [skip ci]"
+          for attempt in 1 2 3 4 5; do
             if git pull --rebase=merges origin main && git push; then
-              echo "push ok (attempt $i)"
+              echo "push ok (attempt $attempt)"
               exit 0
             fi
             sleep 3
@@ -60,8 +66,11 @@ jobs:
 
   render3d:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -70,23 +79,23 @@ jobs:
         uses: webfactory/ssh-agent@v0.9.0
         with:
           ssh-private-key: ${{ secrets.SSH_SIGNING_KEY }}
-
       - name: Commit 3D graph
         run: |
           git config user.name "profile-bot"
           git config user.email "146646189+sahilstha0007@users.noreply.github.com"
           git config gpg.format ssh
-          git config user.signingkey "key::$(ssh-add -L | awk '{print $1, $2}' | head -1)"
+          read -r signing_key_type signing_key _ <<< "$(ssh-add -L)"
+          git config user.signingkey "key::${signing_key_type} ${signing_key}"
           git config commit.gpgsign true
           git add profile-3d-contrib
-          if ! git diff --cached --quiet; then
-            git commit -m ":cuberoot: 3d graph refresh [skip ci]"
+          if git diff --cached --quiet; then
+            echo "3D graph already up to date"
+            exit 0
           fi
-          # retry: refresh pushes to main in parallel, so a push can be
-          # rejected as non-fast-forward — rebase onto latest and retry
-          for i in 1 2 3 4 5; do
+          git commit -m "chore: refresh 3D contribution graph [skip ci]"
+          for attempt in 1 2 3 4 5; do
             if git pull --rebase=merges origin main && git push; then
-              echo "push ok (attempt $i)"
+              echo "push ok (attempt $attempt)"
               exit 0
             fi
             sleep 3

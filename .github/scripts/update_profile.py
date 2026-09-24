@@ -1,16 +1,15 @@
 #!/usr/bin/env python3
-"""Injects live guestbook entries + a daily quote into README.md."""
 
+import html
 import json
 import os
-import random
 import re
-import urllib.request
+import sys
+from datetime import datetime, timezone
+from pathlib import Path
+from urllib.request import Request, urlopen
 
-REPO = os.environ["REPO"]
-TOKEN = os.environ["GH_TOKEN"]
-README = "README.md"
-
+README = Path("README.md")
 QUOTES = [
     ("Talk is cheap. Show me the code.", "Linus Torvalds"),
     ("Any sufficiently advanced bug is indistinguishable from a feature.", "Eric S. Raymond"),
@@ -25,47 +24,100 @@ QUOTES = [
 ]
 
 
-
-def api(path):
-    req = urllib.request.Request(
-        f"https://api.github.com{path}",
-        headers={"Authorization": f"Bearer {TOKEN}", "User-Agent": "profile-bot"},
+def api(path, repo, token):
+    request = Request(
+        f"https://api.github.com/repos/{repo}{path}",
+        headers={"Authorization": f"Bearer {token}", "User-Agent": "profile-bot"},
     )
-    with urllib.request.urlopen(req) as r:
-        return json.loads(r.read())
+    with urlopen(request, timeout=15) as response:
+        return json.load(response)
 
 
-def guestbook():
+def escape_message(message):
+    text = html.escape(" ".join(message.split()), quote=False)
+    return re.sub(r"([\\`*_{}\[\]()|~])", r"\\\1", text)
+
+
+def guestbook(repo, token):
     try:
-        comments = api(f"/repos/{REPO}/issues/1/comments")
-    except Exception:
-        return "_No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilstha0007/issues/1)_"
+        issue = api("/issues/1", repo, token)
+        total = int(issue.get("comments", 0))
+        page = max(1, (total + 99) // 100)
+        comments = api(f"/issues/1/comments?per_page=100&page={page}", repo, token)
+    except (OSError, TypeError, ValueError) as error:
+        print(f"guestbook unavailable: {error}", file=sys.stderr)
+        return None
+
     if not comments:
-        return "_No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilstha0007/issues/1)_"
-    emojis = ["🔥", "⚡", "🚀", "🌟", "💜", "🦄", "🍕", "☕"]
+        return f"_No signatures yet — [be the first!](https://github.com/{repo}/issues/1)_"
+
     lines = []
-    for c in comments[-10:]:
-        msg = c["body"].split("\n")[0][:80]
-        lines.append(f'| **[@{c["user"]["login"]}]({c["user"]["html_url"]})** | {msg} |')
-    header = "| Visitor | Message |\n|---|---|\n"
-    total = f"\n\n🗣️ **{len(comments)}** signatures so far"
-    return header + "\n".join(lines) + total
+    for comment in comments[-10:]:
+        user = comment.get("user") or {}
+        login = html.escape(user.get("login", "unknown"), quote=False)
+        profile_url = user.get("html_url", "https://github.com")
+        body = (comment.get("body") or "").strip()
+        message = escape_message((body.splitlines()[0] if body else "(no message)")[:80])
+        lines.append(f"| [@{login}]({profile_url}) | {message} |")
+
+    return "| Visitor | Message |\n|---|---|\n" + "\n".join(lines) + f"\n\n**{total}** signatures so far"
 
 
 def quote():
-    q, a = random.choice(QUOTES)
-    return f'> [!NOTE]\n> {q}\n> — *{a}*'
+    index = datetime.now(timezone.utc).date().toordinal() % len(QUOTES)
+    text, author = QUOTES[index]
+    return f"> [!NOTE]\n> {text}\n> — *{author}*"
 
 
-
-def splice(markers, content):
+def replace_marked(source, marker, content):
     pattern = re.compile(
-        rf"(<!-- {markers}:START -->\n)(.*?)(\n<!-- {markers}:END -->)", re.DOTALL
+        rf"(<!-- {re.escape(marker)}:START -->\n)(.*?)(\n<!-- {re.escape(marker)}:END -->)",
+        re.DOTALL,
     )
-    src = open(README).read()
-    open(README, "w").write(pattern.sub(rf"\g<1>{content}\g<3>", src))
+    updated, count = pattern.subn(
+        lambda match: f"{match.group(1)}{content}{match.group(3)}", source
+    )
+    if count != 1:
+        raise ValueError(f"expected one {marker} marker, found {count}")
+    return updated
 
 
-splice("GUESTBOOK", guestbook())
-splice("QUOTE", quote())
-print("README updated")
+def splice(marker, content):
+    source = README.read_text(encoding="utf-8")
+    updated = replace_marked(source, marker, content)
+    if updated == source:
+        return False
+    README.write_text(updated, encoding="utf-8")
+    return True
+
+
+def self_test():
+    source = "before\n<!-- TEST:START -->\nold\n<!-- TEST:END -->\nafter"
+    expected = "before\n<!-- TEST:START -->\nnew\\1\n<!-- TEST:END -->\nafter"
+    assert replace_marked(source, "TEST", "new\\1") == expected
+    escaped = escape_message("hello | <tag> [x]")
+    assert "&lt;tag&gt;" in escaped
+    assert "\\|" in escaped
+    assert "\\[" in escaped
+    assert "\\~" in escape_message("~text~")
+    print("self-test passed")
+
+
+def main():
+    if sys.argv[1:] == ["--self-test"]:
+        self_test()
+        return
+    if sys.argv[1:]:
+        raise SystemExit("usage: update_profile.py [--self-test]")
+
+    repo = os.environ["REPO"]
+    token = os.environ["GH_TOKEN"]
+    changed = splice("QUOTE", quote())
+    guestbook_text = guestbook(repo, token)
+    if guestbook_text is not None:
+        changed = splice("GUESTBOOK", guestbook_text) or changed
+    print("README updated" if changed else "README already up to date")
+
+
+if __name__ == "__main__":
+    main()
