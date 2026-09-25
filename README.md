@@ -23,55 +23,40 @@ I build dependable web products from the database to the browser, with a soft sp
 
 ---
 
-## Signal
+## 01 / Signal
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>WEB PRODUCTS</strong><br />
-      <code>Next.js · TypeScript · Laravel · Node.js</code>
-    </td>
-    <td align="center" width="50%">
-      <strong>CLOUD SYSTEMS</strong><br />
-      <code>AWS · VPC · ALB · RDS</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>LOCAL TOOLING</strong><br />
-      <code>Arch · Hyprland · Neovim</code>
-    </td>
-    <td align="center">
-      <strong>APPLIED AI</strong><br />
-      <code>LLM pipelines · model routing</code>
-    </td>
-  </tr>
-</table>
+| Domain | Build |
+|---|---|
+| **WEB PRODUCTS** | `Next.js · TypeScript · Laravel · Node.js` |
+| **CLOUD SYSTEMS** | `AWS · VPC · ALB · RDS` |
+| **LOCAL TOOLING** | `Arch · Hyprland · Neovim` |
+| **APPLIED AI** | `LLM pipelines · model routing` |
 
-I care about the whole path: interface → API → infrastructure → feedback.
+`interface → API → infrastructure → feedback`
 
-## Selected work
+---
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Portfolio](https://sahiltuchheshrestha.com.np)** | Personal site and a home for my experiments. | Next.js · TypeScript |
-| **[Lumin](https://github.com/sahilstha0007/lumin)** | Shop application deployed on my own AWS stack. | Laravel · Next.js |
-| **[Finest](https://github.com/sahilstha0007/Finest)** | Digital marketplace for artists. | JavaScript |
-| **[mydotfiles](https://github.com/sahilstha0007/mydotfiles)** | LazyVim-based editor setup with LSP, DAP, and custom themes. | Lua |
-| **[Agentic Career Advisor](https://github.com/sahilstha0007/aggentic-carrer-advisor)** | RAG career coach with tool-using agent workflows. | Python · LangGraph · Gemini |
+## 02 / Selected work
 
-## ~/whoami
+| Ref / project | Outcome / stack |
+|---|---|
+| `SW-01` · **[Portfolio](https://sahiltuchheshrestha.com.np)** | Personal site and a home for my experiments.<br>`Next.js · TypeScript` |
+| `SW-02` · **[Lumin](https://github.com/sahilstha0007/lumin)** | Shop application deployed on my own AWS stack.<br>`Laravel · Next.js` |
+| `SW-03` · **[Finest](https://github.com/sahilstha0007/Finest)** | Digital marketplace for artists.<br>`JavaScript` |
+| `SW-04` · **[mydotfiles](https://github.com/sahilstha0007/mydotfiles)** | LazyVim-based editor setup with LSP, DAP, and custom themes.<br>`Lua` |
+| `SW-05` · **[Agentic Career Advisor](https://github.com/sahilstha0007/aggentic-carrer-advisor)** | RAG career coach with tool-using agent workflows.<br>`Python · LangGraph · Gemini` |
+
+---
+
+## 03 / ~/whoami
 
 ```console
-sahil@github:~$ ls ./identity/
-bit-student-kathmandu    full-stack-developer
-aws-deployer             linux-power-user
-llm-tinkerer             ex-distro-hopper*
-
-sahil@github:~$ cat mission.txt
-Build useful software, understand the stack, and make the terminal feel like home.
-
-*tried Fedora, EndeavourOS, and Parrot. Came back to Arch.*
+$ whoami
+id       sahil
+roles    full-stack-developer · aws-deployer · llm-tinkerer
+local    arch · hyprland · neovim
+mission  build useful software, understand the stack,
+         and make the terminal feel like home.
 ```
 
 <div align="center">
@@ -82,15 +67,17 @@ Build useful software, understand the stack, and make the terminal feel like hom
 
 ---
 
-## Guestbook
+## 04 / Guestbook
 
-Leave a first-line message on [issue #1](https://github.com/sahilstha0007/sahilstha0007/issues/1). The profile workflow renders the latest signatures here.
+`LOG //` Leave a first-line message on [issue #1](https://github.com/sahilstha0007/sahilstha0007/issues/1). The profile workflow renders the latest signatures here.
 
 <!-- GUESTBOOK:START -->
 _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilstha0007/issues/1)_
 <!-- GUESTBOOK:END -->
 
-## Daily transmission
+---
+
+## 05 / Daily transmission
 
 <!-- QUOTE:START -->
 > [!NOTE]
@@ -111,13 +98,15 @@ Shell     : zsh + atuin + mise + fzf
 Uptime    : longer than my sleep schedule
 
 $ sudo systemctl status motivation
-● active (running) — since 2024
+active (running) — since 2024
 
 $ pacman -S new-idea --noconfirm
 resolving dependencies... done.
 ```
 
 </details>
+
+## 06 / Local setup notes
 
 <details>
 <summary><b>Local setup notes</b></summary>
