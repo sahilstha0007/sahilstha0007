@@ -7,64 +7,40 @@
   </picture>
 </a>
 
-# Hey, I'm Sahil.
-
 I build dependable web products from the database to the browser, with a soft spot for Linux, cloud infrastructure, and practical AI tooling.
 
-[![Open to work](https://img.shields.io/badge/STATUS-open_to_backend_%2F_AI--ML_internships-00ff9c?style=for-the-badge&labelColor=0D1117)](mailto:sahiltuchhe123@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-sahiltuchheshrestha.com.np-00b3ff?style=for-the-badge&labelColor=0D1117)](https://sahiltuchheshrestha.com.np)
-[![Guestbook](https://img.shields.io/badge/guestbook-sign_here-b388ff?style=for-the-badge&labelColor=0D1117)](https://github.com/sahilstha0007/sahilstha0007/issues/1)
-
-[![Profile views](https://komarev.com/ghpvc/?username=sahilstha0007&color=00ff9c&style=flat-square&label=VISITORS)](https://github.com/sahilstha0007)
-
-[View my portfolio](https://sahiltuchheshrestha.com.np) · [Email me](mailto:sahiltuchhe123@gmail.com) · [Sign the guestbook](https://github.com/sahilstha0007/sahilstha0007/issues/1)
+`contact:` [sahiltuchhe123@gmail.com](mailto:sahiltuchhe123@gmail.com) &nbsp;·&nbsp; `portfolio:` [sahiltuchheshrestha.com.np](https://sahiltuchheshrestha.com.np) &nbsp;·&nbsp; `status:` open to internships
 
 </div>
 
----
+<br>
+## `[01]` Signal
 
-## 01 / Signal
+> `interface → API → infrastructure → feedback`
 
-| Domain | Build |
-|---|---|
-| **WEB PRODUCTS** | `Next.js · TypeScript · Laravel · Node.js` |
-| **CLOUD SYSTEMS** | `AWS · VPC · ALB · RDS` |
-| **LOCAL TOOLING** | `Arch · Hyprland · Neovim` |
-| **APPLIED AI** | `LLM pipelines · model routing` |
+- **WEB PRODUCTS** &nbsp; `Next.js · TypeScript · Laravel · Node.js`
+- **CLOUD SYSTEMS** &nbsp; `AWS · VPC · ALB · RDS`
+- **LOCAL TOOLING** &nbsp; `Arch · Hyprland · Neovim`
+- **APPLIED AI** &nbsp; `LLM pipelines · model routing`
 
-`interface → API → infrastructure → feedback`
+<br>
+## `[02]` Selected work
 
----
+- `SW-01` · **[Portfolio](https://sahiltuchheshrestha.com.np)** — Personal site and a home for my experiments. (`Next.js · TypeScript`)
+- `SW-02` · **[Lumin](https://github.com/sahilstha0007/lumin)** — Shop application deployed on my own AWS stack. (`Laravel · Next.js`)
+- `SW-03` · **[Finest](https://github.com/sahilstha0007/Finest)** — Digital marketplace for artists. (`JavaScript`)
+- `SW-04` · **[mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — LazyVim-based editor setup with LSP, DAP, and custom themes. (`Lua`)
+- `SW-05` · **[Agentic Career Advisor](https://github.com/sahilstha0007/aggentic-carrer-advisor)** — RAG career coach with tool-using agent workflows. (`Python · LangGraph · Gemini`)
 
-## 02 / Selected work
-
-| Ref / project | Outcome / stack |
-|---|---|
-| `SW-01` · **[Portfolio](https://sahiltuchheshrestha.com.np)** | Personal site and a home for my experiments.<br>`Next.js · TypeScript` |
-| `SW-02` · **[Lumin](https://github.com/sahilstha0007/lumin)** | Shop application deployed on my own AWS stack.<br>`Laravel · Next.js` |
-| `SW-03` · **[Finest](https://github.com/sahilstha0007/Finest)** | Digital marketplace for artists.<br>`JavaScript` |
-| `SW-04` · **[mydotfiles](https://github.com/sahilstha0007/mydotfiles)** | LazyVim-based editor setup with LSP, DAP, and custom themes.<br>`Lua` |
-| `SW-05` · **[Agentic Career Advisor](https://github.com/sahilstha0007/aggentic-carrer-advisor)** | RAG career coach with tool-using agent workflows.<br>`Python · LangGraph · Gemini` |
-
+<br>
 ### Build console
 
-<p align="center">
+<a href="https://github.com/sahilstha0007/lumin">
   <img src="./assets/build-console.svg" width="100%" alt="Build console route map connecting signal, build, and proof, with routes to selected work, stack, and contact." />
-</p>
+</a>
 
-<details>
-<summary><strong>Build console</strong> — useful paths through this profile</summary>
-
-- <code>work</code> — [inspect the strongest project](https://github.com/sahilstha0007/lumin)
-- <code>stack</code> — [see tools and working principles](#03--whoami)
-- <code>contact</code> — [start a conversation](mailto:sahiltuchhe123@gmail.com)
-
-</details>
-
----
-
-## 03 / ~/whoami
-
+<br>
+## `[03]` ~/whoami
 ```console
 $ whoami
 id       sahil
@@ -73,27 +49,23 @@ local    arch · hyprland · neovim
 mission  build useful software, understand the stack,
          and make the terminal feel like home.
 ```
-
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev" aria-label="View the technologies I use">
     <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,laravel,php,python,lua,bash,mongodb,mysql,prisma,docker,aws,arch,linux,vim,git&theme=dark&perline=9" alt="TypeScript, Next.js, React, Node.js, Laravel, PHP, Python, Lua, Bash, MongoDB, MySQL, Prisma, Docker, AWS, Arch Linux, Linux, Vim, and Git" />
   </a>
-</div>
+</p>
 
----
-
-## 04 / Guestbook
-
+<br>
+## `[04]` Guestbook
 `LOG //` Leave a first-line message on [issue #1](https://github.com/sahilstha0007/sahilstha0007/issues/1). The profile workflow renders the latest signatures here.
 
 <!-- GUESTBOOK:START -->
 _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilstha0007/issues/1)_
 <!-- GUESTBOOK:END -->
 
----
+<br>
 
-## 05 / Daily transmission
-
+## `[05]` Daily transmission
 <!-- QUOTE:START -->
 > [!NOTE]
 > First, solve the problem. Then, write the code.
@@ -121,10 +93,9 @@ resolving dependencies... done.
 
 </details>
 
-## 06 / Local setup notes
+<br>
 
-<details>
-<summary><b>Local setup notes</b></summary>
+## `[06]` Local setup notes
 
 - CPU power limits are tuned with `ryzenadj`.
 - `matugen` recolors applications when the wallpaper changes.
@@ -132,9 +103,8 @@ resolving dependencies... done.
 - `satty` handles screenshot annotation.
 - Dotfiles are backed up from a private repository.
 
-</details>
 
----
+<br>
 
 ## `./activity`
 
@@ -147,14 +117,7 @@ resolving dependencies... done.
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [theme\(wezterm\): center-weighted scrim for busy wallpapers](https://github.com/sahilstha0007/mydotfiles/commit/9eb0a2f32c4b713e03431f46f72db73f2557dde8)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [theme\(nvim\): soften accent saturation s85 -&gt; s55](https://github.com/sahilstha0007/mydotfiles/commit/b2085aefe225c63cc963e7a85a43b1c2cc26371e)
 <!-- RECENT_ACTIVITY:END -->
-
-### 3D contribution cube
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="85%" alt="Animated 3D contribution cube" loading="lazy" />
-</p>
-
-### Contribution snake
+### Contribution density
 
 <div align="center">
 
@@ -166,6 +129,6 @@ resolving dependencies... done.
 
 </div>
 
----
+<br>
 
 <p align="center"><i>Built with curiosity, coffee, and too many terminals.</i></p>
