@@ -46,6 +46,21 @@ I build dependable web products from the database to the browser, with a soft sp
 | `SW-04` · **[mydotfiles](https://github.com/sahilstha0007/mydotfiles)** | LazyVim-based editor setup with LSP, DAP, and custom themes.<br>`Lua` |
 | `SW-05` · **[Agentic Career Advisor](https://github.com/sahilstha0007/aggentic-carrer-advisor)** | RAG career coach with tool-using agent workflows.<br>`Python · LangGraph · Gemini` |
 
+### Build console
+
+<p align="center">
+  <img src="./assets/build-console.svg" width="100%" alt="Build console route map connecting signal, build, and proof, with routes to selected work, stack, and contact." />
+</p>
+
+<details>
+<summary><strong>Build console</strong> — useful paths through this profile</summary>
+
+- <code>work</code> — [inspect the strongest project](https://github.com/sahilstha0007/lumin)
+- <code>stack</code> — [see tools and working principles](#03--whoami)
+- <code>contact</code> — [start a conversation](mailto:sahiltuchhe123@gmail.com)
+
+</details>
+
 ---
 
 ## 03 / ~/whoami

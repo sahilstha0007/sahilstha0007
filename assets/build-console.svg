@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" width="480" height="280" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+  <title id="title">Build console route map</title>
+  <desc id="desc">Three stages connected by one signal line: signal, build, and proof.</desc>
+  <rect width="480" height="280" fill="#0b111a"/>
+  <rect x="12" y="12" width="456" height="256" rx="12" fill="#111923" stroke="#2c3b49"/>
+  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="12" fill="#8da1ad">
+    <text x="32" y="42">build_console / snapshot</text>
+    <text x="448" y="42" text-anchor="end" fill="#f2b84b">ROUTE_MAP</text>
+  </g>
+  <path d="M56 116H424" fill="none" stroke="#f2b84b" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 10"/>
+  <g fill="#f2b84b">
+    <circle cx="72" cy="116" r="7"/>
+    <circle cx="240" cy="116" r="7"/>
+    <circle cx="408" cy="116" r="7"/>
+  </g>
+  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="23" fill="#edf4f2" text-anchor="middle">
+    <text x="72" y="82">SIGNAL</text>
+    <text x="240" y="82">BUILD</text>
+    <text x="408" y="82">PROOF</text>
+  </g>
+  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="14" fill="#9bb0b8" text-anchor="middle">
+    <text x="72" y="154">read</text>
+    <text x="240" y="154">choose</text>
+    <text x="408" y="154">inspect</text>
+    <text x="72" y="212">problem</text>
+    <text x="240" y="212">craft</text>
+    <text x="408" y="212">ship</text>
+  </g>
+  <path d="M32 244H448" stroke="#2c3b49"/>
+  <text x="32" y="260" fill="#f2b84b" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="11">SIGNAL → BUILD → PROOF</text>
+  <text x="448" y="260" text-anchor="end" fill="#8da1ad" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="11">ROUTES ONLINE</text>
+</svg>
