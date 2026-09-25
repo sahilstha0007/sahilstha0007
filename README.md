@@ -94,8 +94,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 
 <!-- QUOTE:START -->
 > [!NOTE]
-> There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
-> — *Anonymous*
+> First, solve the problem. Then, write the code.
+> — *John Johnson*
 <!-- QUOTE:END -->
 
 <details>
