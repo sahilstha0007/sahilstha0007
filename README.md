@@ -111,11 +111,11 @@ resolving dependencies... done.
 `● LIVE` **Recent commits + GitHub activity**
 
 <!-- RECENT_ACTIVITY:START -->
+- **[Not-Donno/iotHUB](https://github.com/Not-Donno/iotHUB)** — [product services](https://github.com/Not-Donno/iotHUB/commit/c28c362453346c3c1eaa8ac9aeee4111047e5421)
 - **[Not-Donno/iotHUB](https://github.com/Not-Donno/iotHUB)** — [product services](https://github.com/Not-Donno/iotHUB/commit/043a275a275022e28cacd274fb525331bf8f2ec5)
 - **[Not-Donno/iotHUB](https://github.com/Not-Donno/iotHUB)** — [Database boilerplates and telemetry installed](https://github.com/Not-Donno/iotHUB/commit/8beccfe35b607c52c0b98690105ba76095db2259)
 - **[Not-Donno/iotHUB](https://github.com/Not-Donno/iotHUB)** — [Telemetry removed](https://github.com/Not-Donno/iotHUB/commit/2b8e49355883980b0d2b78ab5b30d269ec0110af)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [theme: brighter text on darker backing — readability pass](https://github.com/sahilstha0007/mydotfiles/commit/ca769f04760aa26c5ad7eb587931975a71383e34)
-- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [theme\(wezterm\): revert to the ca769f0 readability setup](https://github.com/sahilstha0007/mydotfiles/commit/595e5e9b3b443e7e176303701b7a5fecf484fe95)
 <!-- RECENT_ACTIVITY:END -->
 ### Contribution density
 
