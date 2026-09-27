@@ -111,11 +111,11 @@ resolving dependencies... done.
 `● LIVE` **Recent commits + GitHub activity**
 
 <!-- RECENT_ACTIVITY:START -->
+- **[Not-Donno/iotHUB](https://github.com/Not-Donno/iotHUB)** — [chore: untrack the frontend agent context files](https://github.com/Not-Donno/iotHUB/commit/22114b3a251413b19fec36ff18371cd1b951c481)
+- **[Not-Donno/iotHUB](https://github.com/Not-Donno/iotHUB)** — [feat\(products\): scope writes to the authenticated vendor \(#2\)](https://github.com/Not-Donno/iotHUB/commit/0b747b7216dbde5334a6a94fce015263c650eb06)
 - **[Not-Donno/iotHUB](https://github.com/Not-Donno/iotHUB)** — [feat\(products\): scope writes to the authenticated vendor](https://github.com/Not-Donno/iotHUB/commit/01d40f50d3c9225a496afd72e59971231b0020ed)
 - **[Not-Donno/iotHUB](https://github.com/Not-Donno/iotHUB)** — [Untrack build artifact](https://github.com/Not-Donno/iotHUB/commit/dc4f669c16596cb6ec070b33b36e9a9b9055d017)
 - **[Not-Donno/iotHUB](https://github.com/Not-Donno/iotHUB)** — [Ignore tsconfig.build.tsbuildinfo](https://github.com/Not-Donno/iotHUB/commit/cc3ea671aae2c8d6cab0ff3c3cd76b513afb523f)
-- **[Not-Donno/iotHUB](https://github.com/Not-Donno/iotHUB)** — [Products controller and updated git ignore](https://github.com/Not-Donno/iotHUB/commit/84f8189a764eca3a292e7f9913ed6a43e3f0d2e6)
-- **[Not-Donno/iotHUB](https://github.com/Not-Donno/iotHUB)** — [conflict fixed](https://github.com/Not-Donno/iotHUB/commit/71d4b9c50c79da284e7da8d9f876be27ff8f65da)
 <!-- RECENT_ACTIVITY:END -->
 ### Contribution density
 
