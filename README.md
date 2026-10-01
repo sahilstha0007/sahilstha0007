@@ -68,8 +68,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ## `[05]` Daily transmission
 <!-- QUOTE:START -->
 > [!NOTE]
-> Rebooting is the sincerest form of flattery.
-> — *Every Arch user*
+> Talk is cheap. Show me the code.
+> — *Linus Torvalds*
 <!-- QUOTE:END -->
 
 <details>
