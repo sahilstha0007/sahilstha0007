@@ -68,8 +68,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ## `[05]` Daily transmission
 <!-- QUOTE:START -->
 > [!NOTE]
-> First, solve the problem. Then, write the code.
-> — *John Johnson*
+> Simplicity is prerequisite for reliability.
+> — *Edsger W. Dijkstra*
 <!-- QUOTE:END -->
 
 <details>
