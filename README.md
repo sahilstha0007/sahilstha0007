@@ -68,8 +68,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ## `[05]` Daily transmission
 <!-- QUOTE:START -->
 > [!NOTE]
-> Weeks of coding can save you hours of planning.
-> — *Unknown*
+> Make it work, make it right, make it fast.
+> — *Kent Beck*
 <!-- QUOTE:END -->
 
 <details>
@@ -112,7 +112,6 @@ resolving dependencies... done.
 
 <!-- RECENT_ACTIVITY:START -->
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [chore: commit uncommitted nvim config changes](https://github.com/sahilstha0007/mydotfiles/commit/6c318abce9fbae80cd1b0431930460eff157d2bb)
-- **[Not-Donno/iotHUB](https://github.com/Not-Donno/iotHUB)** — [Fe setupped](https://github.com/Not-Donno/iotHUB/commit/80e1c0bf54ca184c9c7ea866c64ae0876b04e1ce)
 <!-- RECENT_ACTIVITY:END -->
 ### Contribution density
 
