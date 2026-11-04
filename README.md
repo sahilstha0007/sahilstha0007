@@ -111,6 +111,7 @@ resolving dependencies... done.
 `● LIVE` **Recent commits + GitHub activity**
 
 <!-- RECENT_ACTIVITY:START -->
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(theme\): switch to scheme-tonal-spot, soften syntax accents in HSLUV, and optimize backdrop brightness](https://github.com/sahilstha0007/mydotfiles/commit/2848de66ec9a078b7daef6169a3df6a762d6e753)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [chore: commit uncommitted nvim config changes](https://github.com/sahilstha0007/mydotfiles/commit/6c318abce9fbae80cd1b0431930460eff157d2bb)
 <!-- RECENT_ACTIVITY:END -->
 ### Contribution density
