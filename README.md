@@ -111,11 +111,11 @@ resolving dependencies... done.
 `● LIVE` **Recent commits + GitHub activity**
 
 <!-- RECENT_ACTIVITY:START -->
-- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(nvim\): enable wezterm kitty graphics in tmux and install mmdc](https://github.com/sahilstha0007/mydotfiles/commit/9360e9f11ee3f3bdd380fea6e723260e73c7ff45)
-- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(tmux\): ensure project session root inheritance and expand sessionizer discovery](https://github.com/sahilstha0007/mydotfiles/commit/0fd2330970d332d945c30e0e7a49f6816f6096f1)
-- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [refactor\(nvim\): remove dropbar breadcrumbs for clean winbar and full stack sync](https://github.com/sahilstha0007/mydotfiles/commit/2e211d7eda386febe6f78c6b5493813907ed777a)
-- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(theme\): switch to scheme-tonal-spot, soften syntax accents in HSLUV, and optimize backdrop brightness](https://github.com/sahilstha0007/mydotfiles/commit/2848de66ec9a078b7daef6169a3df6a762d6e753)
-- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [chore: commit uncommitted nvim config changes](https://github.com/sahilstha0007/mydotfiles/commit/6c318abce9fbae80cd1b0431930460eff157d2bb)
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(theme\): lock 100% Nightfox across Neovim, Tmux and Kitty Dev, prevent wallpaper cascade override](https://github.com/sahilstha0007/mydotfiles/commit/b22ad2c949a87ffd9bec843657fbc2412766fd69)
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(theme\): add dual theme profiles \(nightfox for kitty stack, matugen for wezterm\)](https://github.com/sahilstha0007/mydotfiles/commit/5bdcc7b41e4b8f6806ca0a6c31cc4b7c77e8f230)
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(kitty\): apply Basel glass capsule gradient to tab bar, fix active\_exe error, and prune duplicate nightfox include](https://github.com/sahilstha0007/mydotfiles/commit/428d35ae6dbca72ceb59f37d8b51c60aea9d7d98)
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [revert\(kitty\): restore classic nightfox tab bar styling exactly from v10.0 commit b8eaf44](https://github.com/sahilstha0007/mydotfiles/commit/14811bfef27f8a10842544da5644108677e82056)
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(kitty\): isolate dev palette destination to dev-colors-matugen.conf](https://github.com/sahilstha0007/mydotfiles/commit/aa6a4dfd4a252ea927e18a91a2eac1935544f5a5)
 <!-- RECENT_ACTIVITY:END -->
 ### Contribution density
 
