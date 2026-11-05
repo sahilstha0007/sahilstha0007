@@ -68,8 +68,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ## `[05]` Daily transmission
 <!-- QUOTE:START -->
 > [!NOTE]
-> First, solve the problem. Then, write the code.
-> — *John Johnson*
+> Simplicity is prerequisite for reliability.
+> — *Edsger W. Dijkstra*
 <!-- QUOTE:END -->
 
 <details>
@@ -111,6 +111,9 @@ resolving dependencies... done.
 `● LIVE` **Recent commits + GitHub activity**
 
 <!-- RECENT_ACTIVITY:START -->
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(nvim\): enable wezterm kitty graphics in tmux and install mmdc](https://github.com/sahilstha0007/mydotfiles/commit/9360e9f11ee3f3bdd380fea6e723260e73c7ff45)
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(tmux\): ensure project session root inheritance and expand sessionizer discovery](https://github.com/sahilstha0007/mydotfiles/commit/0fd2330970d332d945c30e0e7a49f6816f6096f1)
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [refactor\(nvim\): remove dropbar breadcrumbs for clean winbar and full stack sync](https://github.com/sahilstha0007/mydotfiles/commit/2e211d7eda386febe6f78c6b5493813907ed777a)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(theme\): switch to scheme-tonal-spot, soften syntax accents in HSLUV, and optimize backdrop brightness](https://github.com/sahilstha0007/mydotfiles/commit/2848de66ec9a078b7daef6169a3df6a762d6e753)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [chore: commit uncommitted nvim config changes](https://github.com/sahilstha0007/mydotfiles/commit/6c318abce9fbae80cd1b0431930460eff157d2bb)
 <!-- RECENT_ACTIVITY:END -->
