@@ -111,11 +111,11 @@ resolving dependencies... done.
 `● LIVE` **Recent commits + GitHub activity**
 
 <!-- RECENT_ACTIVITY:START -->
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(kitty\): purge external colors and enforce 100% pure official Nightfox palette with fading tab bar](https://github.com/sahilstha0007/mydotfiles/commit/6964b19ea10fe3cae8702476bb8693d1c655fd7c)
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(kitty\): apply sleek native fading tab bar style \(tab\_fade\)](https://github.com/sahilstha0007/mydotfiles/commit/bd5bf9825a3f7f25a740d4b226e5ae1765df952f)
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat: add portable VSCode, Kitty Dev, and universal Linux installer to dotfiles](https://github.com/sahilstha0007/mydotfiles/commit/1095074b01378251b84f8699a29d1c292197184d)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(theme\): lock 100% Nightfox across Neovim, Tmux and Kitty Dev, prevent wallpaper cascade override](https://github.com/sahilstha0007/mydotfiles/commit/b22ad2c949a87ffd9bec843657fbc2412766fd69)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(theme\): add dual theme profiles \(nightfox for kitty stack, matugen for wezterm\)](https://github.com/sahilstha0007/mydotfiles/commit/5bdcc7b41e4b8f6806ca0a6c31cc4b7c77e8f230)
-- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(kitty\): apply Basel glass capsule gradient to tab bar, fix active\_exe error, and prune duplicate nightfox include](https://github.com/sahilstha0007/mydotfiles/commit/428d35ae6dbca72ceb59f37d8b51c60aea9d7d98)
-- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [revert\(kitty\): restore classic nightfox tab bar styling exactly from v10.0 commit b8eaf44](https://github.com/sahilstha0007/mydotfiles/commit/14811bfef27f8a10842544da5644108677e82056)
-- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(kitty\): isolate dev palette destination to dev-colors-matugen.conf](https://github.com/sahilstha0007/mydotfiles/commit/aa6a4dfd4a252ea927e18a91a2eac1935544f5a5)
 <!-- RECENT_ACTIVITY:END -->
 ### Contribution density
 
