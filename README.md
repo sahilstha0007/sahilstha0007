@@ -68,8 +68,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 ## `[05]` Daily transmission
 <!-- QUOTE:START -->
 > [!NOTE]
-> Make it work, make it right, make it fast.
-> — *Kent Beck*
+> Deleted code is debugged code.
+> — *Jeff Sickel*
 <!-- QUOTE:END -->
 
 <details>
