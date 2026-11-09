@@ -111,11 +111,11 @@ resolving dependencies... done.
 `● LIVE` **Recent commits + GitHub activity**
 
 <!-- RECENT_ACTIVITY:START -->
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(nvim\): enable word wrapping on diagnostics, inline error messages, and floats](https://github.com/sahilstha0007/mydotfiles/commit/57b42206282045fa027b0198db93204877ffc2fb)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(kitty\): purge external colors and enforce 100% pure official Nightfox palette with fading tab bar](https://github.com/sahilstha0007/mydotfiles/commit/6964b19ea10fe3cae8702476bb8693d1c655fd7c)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(kitty\): apply sleek native fading tab bar style \(tab\_fade\)](https://github.com/sahilstha0007/mydotfiles/commit/bd5bf9825a3f7f25a740d4b226e5ae1765df952f)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat: add portable VSCode, Kitty Dev, and universal Linux installer to dotfiles](https://github.com/sahilstha0007/mydotfiles/commit/1095074b01378251b84f8699a29d1c292197184d)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(theme\): lock 100% Nightfox across Neovim, Tmux and Kitty Dev, prevent wallpaper cascade override](https://github.com/sahilstha0007/mydotfiles/commit/b22ad2c949a87ffd9bec843657fbc2412766fd69)
-- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(theme\): add dual theme profiles \(nightfox for kitty stack, matugen for wezterm\)](https://github.com/sahilstha0007/mydotfiles/commit/5bdcc7b41e4b8f6806ca0a6c31cc4b7c77e8f230)
 <!-- RECENT_ACTIVITY:END -->
 ### Contribution density
 
