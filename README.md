@@ -111,11 +111,11 @@ resolving dependencies... done.
 `● LIVE` **Recent commits + GitHub activity**
 
 <!-- RECENT_ACTIVITY:START -->
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [Rating the ui and feature asthestics](https://github.com/sahilstha0007/mydotfiles/commit/171cd474826d2b19fa62dba63112d9363b59adb6)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(bin\): prioritize bun as primary package manager in project-task](https://github.com/sahilstha0007/mydotfiles/commit/8d365a7cdcfa4f0c2141109ff16eef7e800fefee)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(stack\): achieve 10/10 stack — standalone 56ms zshrc, track CLI binaries, and zero wezterm warnings](https://github.com/sahilstha0007/mydotfiles/commit/f418a49cbe2fa1168e5e847d873ecf33d2147c74)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [chore\(stack\): polish 10/10 terminal stack — clean lsp handlers, treesitter parsers, and pager wrapping](https://github.com/sahilstha0007/mydotfiles/commit/5aea119866875e556b2bca14235a498516ddcca6)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(nvim\): map arrow keys to visual line navigation on wrapped text](https://github.com/sahilstha0007/mydotfiles/commit/bf22511ee74055bf074f2da2650027ba75b9b125)
-- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [feat\(nvim\): enable word wrap by default with visual line navigation](https://github.com/sahilstha0007/mydotfiles/commit/9f539c0f20a6c3059e2319cf1087eea64faecd61)
 <!-- RECENT_ACTIVITY:END -->
 ### Contribution density
 
