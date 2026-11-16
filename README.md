@@ -164,11 +164,11 @@ resolving dependencies... done.
 `● LIVE` — refreshed automatically by the profile workflow.
 
 <!-- RECENT_ACTIVITY:START -->
-- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): soften shader overlay so page switches don't blink](https://github.com/sahilstha0007/Framecraft/commit/db713edd3ead5cfe6192317634d0ec24e957bd6a)
-- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): reserve nav link widths so locale switch doesn't shift layout](https://github.com/sahilstha0007/Framecraft/commit/c3d9bb7bb6216afacc59862e183f3d5c9c02e0d6)
-- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): add scroll hysteresis to stop navbar jitter](https://github.com/sahilstha0007/Framecraft/commit/80a4f728e85450ece56aa105d6d1a66bc721e89d)
-- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(deploy\): scope standalone output to container builds for Vercel](https://github.com/sahilstha0007/Framecraft/commit/1cba397fb48708c7adc2a830cffee721bcff2b0d)
-- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [Rating the ui and feature asthestics](https://github.com/sahilstha0007/mydotfiles/commit/171cd474826d2b19fa62dba63112d9363b59adb6)
+- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): module-level preloader guard across locale switches](https://github.com/sahilstha0007/Framecraft/commit/203c3d808ec6c45a3b5c464f5802295c3cc9eb90)
+- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): responsive navbar for tiny screens and dark first paint](https://github.com/sahilstha0007/Framecraft/commit/13f921379238edc7ec708d3cb78f649e292f4998)
+- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): pin logo width so locale switch keeps nav in place](https://github.com/sahilstha0007/Framecraft/commit/2aa7a26c8d3e98836f0b1bda10e775ac18aa602e)
+- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [feat\(ui\): build hero stats to their final values on load](https://github.com/sahilstha0007/Framecraft/commit/2eef890c4fcfde407202a402a99cd64cc97d92b2)
+- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): responsive logo width and hide preloader on repeat locale loads](https://github.com/sahilstha0007/Framecraft/commit/acbc904e6dcf4cedf0bdfe598a2a2514a0e97fe2)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
