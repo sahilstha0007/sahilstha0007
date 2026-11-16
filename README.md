@@ -14,10 +14,22 @@
 [![Email](https://img.shields.io/badge/Email-sahiltuchhe123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahiltuchhe123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sahilstha0007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilstha0007)
 
+<br>
+
+![20 public repos](https://img.shields.io/badge/REPOS-20-12564f?style=for-the-badge&labelColor=07111c)
+![108 wiki pages](https://img.shields.io/badge/WIKI_PAGES-108-12564f?style=for-the-badge&labelColor=07111c)
+![126 logged updates](https://img.shields.io/badge/LOG_ENTRIES-126-12564f?style=for-the-badge&labelColor=07111c)
+![GitHub since 2023](https://img.shields.io/badge/GITHUB_SINCE-2023-12564f?style=for-the-badge&labelColor=07111c)
+
+<br>
+
+<a href="#what-i-do">⚡ What I do</a> &nbsp;·&nbsp; <a href="#work">🛠 Work</a> &nbsp;·&nbsp; <a href="#second-brain">🧠 Wiki</a> &nbsp;·&nbsp; <a href="#github-at-a-glance">📊 Stats</a> &nbsp;·&nbsp; <a href="#activity">📝 Activity</a> &nbsp;·&nbsp; <a href="#contact">📫 Contact</a>
+
 </div>
 
 ---
 
+<a id="what-i-do"></a>
 ## ⚡ What I do
 
 > `interface → API → infrastructure → feedback`
@@ -29,15 +41,26 @@
 
 I am a BIT student who learns by building: small experiments become real apps, and every project leaves behind notes I can actually reuse.
 
+### 🎯 Now
+
+```console
+$ cat ~/now.md
+→ finishing BIT at Mid Valley International College
+→ looking for a backend / AI-ML web-dev internship
+→ working through the 16-level AI Engineering Roadmap
+→ shipping the portfolio and maintaining the LLM-powered wiki
+```
+
 ---
 
+<a id="work"></a>
 ## 🛠️ Selected work
 
 | | Project | What it is | Built with |
 |---|---|---|---|
 | `01` | **[Portfolio](https://sahiltuchheshrestha.com.np)** | My personal site and home for experiments — editorial, motion-aware, responsive | Next.js · TypeScript |
 | `02` | **[Lumin](https://github.com/sahilstha0007/lumin)** | Shop app deployed on infrastructure I built myself: VPC → ALB → ASG → RDS | Laravel · Next.js · AWS |
-| `03` | **[BIT212 Cloud Computing](https://github.com/sahilstha0007/lumin)** | The AWS stack under Lumin — 2 AZs, bastion host, private RDS, auto scaling, Secrets Manager | AWS · Apache · MySQL |
+| `03` | **BIT212 Cloud Computing** | The AWS stack under Lumin — 2 AZs, bastion host, private RDS, auto scaling, Secrets Manager; all targets healthy, scaling verified | AWS · Apache · MySQL |
 | `04` | **Postflow** | Creator command deck: pipeline kanban, calendar, hook vault, CRM, analytics, media library — on Cloudflare's edge | Next.js 16 · React 19 · D1 · KV |
 | `05` | **[mydotfiles](https://github.com/sahilstha0007/mydotfiles)** | My hand-tuned Neovim setup — LazyVim, LSP, DAP, custom themes | Lua · Neovim |
 | `06` | **[Agentic Career Advisor](https://github.com/sahilstha0007/aggentic-carrer-advisor)** | RAG career coach with tool-using agent workflows | Python · LangGraph · Gemini |
@@ -48,13 +71,12 @@ I am a BIT student who learns by building: small experiments become real apps, a
 
 ---
 
+<a id="second-brain"></a>
 ## 🧠 The second brain
 
 I keep an **Obsidian vault** whose `11 - Sahil's Wiki` folder is a living knowledge base built on the **LLM Wiki Pattern**: instead of re-reading raw documents for every question, an LLM incrementally builds and maintains a persistent, interlinked wiki.
 
-<a href="https://github.com/sahilstha0007/sahilstha0007">
-  <img src="./assets/second-brain.svg" width="100%" alt="Three-layer knowledge base: raw sources, LLM-maintained wiki, and a schema rulebook, with ingest, query and lint operations." />
-</a>
+<img src="./assets/second-brain.svg" width="100%" alt="Three-layer knowledge base: raw sources, LLM-maintained wiki, and a schema rulebook, with ingest, query and lint operations." />
 
 Right now it holds **108 pages** — 16 entities, 46 concepts, 26 source notes, comparisons, synthesis and filed answers — with **126 logged maintenance entries**. The human thinks and curates; the LLM handles the bookkeeping, so cross-references and contradictions stay current instead of rotting.
 
@@ -73,11 +95,12 @@ Right now it holds **108 pages** — 16 entities, 46 concepts, 26 source notes, 
 
 ---
 
+<a id="github-at-a-glance"></a>
 ## 📊 GitHub at a glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilstha0007&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" alt="GitHub stats for sahilstha0007" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilstha0007&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages for sahilstha0007" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilstha0007&show_icons=true&bg_color=07111c&title_color=72f1bb&text_color=a7c2c3&icon_color=54d6e8&hide_border=true&include_all_commits=true" alt="GitHub stats for sahilstha0007" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilstha0007&layout=compact&bg_color=07111c&title_color=72f1bb&text_color=a7c2c3&hide_border=true" alt="Top languages for sahilstha0007" />
 </div>
 
 ---
@@ -135,6 +158,7 @@ resolving dependencies... done.
 
 ---
 
+<a id="activity"></a>
 ## 📝 Recent activity
 
 `● LIVE` — refreshed automatically by the profile workflow.
@@ -149,6 +173,19 @@ resolving dependencies... done.
 
 ---
 
+<a id="contact"></a>
+## 📫 Let's build something
+
+I am open to **backend / AI-ML web-dev internships** and to interesting collaborations. If you want to talk about Next.js, AWS, developer tooling, or knowledge systems, my inbox is open.
+
 <div align="center">
-  <i>Built with curiosity, coffee, and too many terminals.</i>
+
+[![Email me](https://img.shields.io/badge/Email-me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahiltuchhe123@gmail.com)
+[![Visit portfolio](https://img.shields.io/badge/Portfolio-visit-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://sahiltuchheshrestha.com.np)
+[![Follow on GitHub](https://img.shields.io/badge/Follow-@sahilstha0007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilstha0007)
+
+<br>
+
+<i>Built with curiosity, coffee, and too many terminals.</i>
+
 </div>
