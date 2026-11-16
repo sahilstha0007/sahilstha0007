@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">A living knowledge base built with the LLM Wiki Pattern</title>
+  <desc id="desc">Three layers: immutable raw sources feed an LLM-maintained wiki, governed by a schema rulebook. Ingest, query and lint keep it current.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#61dafb"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#8b949e"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="360" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+
+  <text x="40" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="26" font-weight="700" fill="#f0f6fc">A wiki that maintains itself</text>
+  <text x="40" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#8b949e">knowledge is compiled once and kept current — not re-derived on every question</text>
+
+  <!-- Layer 1: raw -->
+  <rect x="40" y="110" width="320" height="90" rx="10" fill="#161b22" stroke="#8b949e" stroke-width="1.5"/>
+  <text x="60" y="140" font-family="ui-monospace,monospace" font-size="16" font-weight="700" fill="#8b949e">01 / RAW SOURCES</text>
+  <text x="60" y="164" font-family="ui-monospace,monospace" font-size="13" fill="#c9d1d9">chat exports · project docs</text>
+  <text x="60" y="184" font-family="ui-monospace,monospace" font-size="13" fill="#c9d1d9">web research · assignments</text>
+
+  <!-- Layer 2: wiki -->
+  <rect x="440" y="110" width="320" height="90" rx="10" fill="#161b22" stroke="url(#accent)" stroke-width="2"/>
+  <text x="460" y="140" font-family="ui-monospace,monospace" font-size="16" font-weight="700" fill="#61dafb">02 / THE WIKI</text>
+  <text x="460" y="164" font-family="ui-monospace,monospace" font-size="13" fill="#c9d1d9">entities · concepts · sources</text>
+  <text x="460" y="184" font-family="ui-monospace,monospace" font-size="13" fill="#c9d1d9">comparisons · synthesis · answers</text>
+
+  <!-- Layer 3: schema -->
+  <rect x="840" y="110" width="320" height="90" rx="10" fill="#161b22" stroke="#a371f7" stroke-width="1.5"/>
+  <text x="860" y="140" font-family="ui-monospace,monospace" font-size="16" font-weight="700" fill="#a371f7">03 / THE SCHEMA</text>
+  <text x="860" y="164" font-family="ui-monospace,monospace" font-size="13" fill="#c9d1d9">AGENTS.md / CLAUDE.md</text>
+  <text x="860" y="184" font-family="ui-monospace,monospace" font-size="13" fill="#c9d1d9">the rulebook that keeps it honest</text>
+
+  <!-- arrows -->
+  <line x1="365" y1="155" x2="432" y2="155" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="765" y1="155" x2="832" y2="155" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- operations -->
+  <text x="40" y="248" font-family="ui-monospace,monospace" font-size="14" font-weight="700" fill="#f0f6fc">THREE OPERATIONS</text>
+
+  <rect x="40" y="264" width="350" height="62" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="58" y="290" font-family="ui-monospace,monospace" font-size="15" font-weight="700" fill="#61dafb">INGEST</text>
+  <text x="58" y="312" font-family="ui-monospace,monospace" font-size="12" fill="#8b949e">source → summary → cross-link → log</text>
+
+  <rect x="425" y="264" width="350" height="62" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="443" y="290" font-family="ui-monospace,monospace" font-size="15" font-weight="700" fill="#a371f7">QUERY</text>
+  <text x="443" y="312" font-family="ui-monospace,monospace" font-size="12" fill="#8b949e">index-first, cite, file answers back</text>
+
+  <rect x="810" y="264" width="350" height="62" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="828" y="290" font-family="ui-monospace,monospace" font-size="15" font-weight="700" fill="#3fb950">LINT</text>
+  <text x="828" y="312" font-family="ui-monospace,monospace" font-size="12" fill="#8b949e">contradictions · stale claims · orphans</text>
+
+  <text x="40" y="352" font-family="ui-monospace,monospace" font-size="12" fill="#6e7681">human curates and thinks · LLM does the bookkeeping · index.md + log.md keep it navigable</text>
+</svg>
