@@ -76,7 +76,7 @@ $ cat ~/now.md
 
 I keep an **Obsidian vault** whose `11 - Sahil's Wiki` folder is a living knowledge base built on the **LLM Wiki Pattern**: instead of re-reading raw documents for every question, an LLM incrementally builds and maintains a persistent, interlinked wiki.
 
-<img src="./assets/second-brain.svg" width="100%" alt="Three-layer knowledge base: raw sources, LLM-maintained wiki, and a schema rulebook, with ingest, query and lint operations." />
+<img src="./assets/second-brain.svg" width="100%" alt="Three-layer knowledge base: raw sources, LLM-maintained wiki, and a schema rulebook, with ingest, query and lint operations." loading="lazy" />
 
 Right now it holds **108 pages** — 16 entities, 46 concepts, 26 source notes, comparisons, synthesis and filed answers — with **126 logged maintenance entries**. The human thinks and curates; the LLM handles the bookkeeping, so cross-references and contradictions stay current instead of rotting.
 
@@ -98,9 +98,11 @@ Right now it holds **108 pages** — 16 entities, 46 concepts, 26 source notes, 
 <a id="github-at-a-glance"></a>
 ## 📊 GitHub at a glance
 
+<img src="./assets/live-status.svg" width="100%" alt="Live profile status panel with real repository, wiki and activity counts." loading="lazy" />
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilstha0007&show_icons=true&bg_color=07111c&title_color=72f1bb&text_color=a7c2c3&icon_color=54d6e8&hide_border=true&include_all_commits=true" alt="GitHub stats for sahilstha0007" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilstha0007&layout=compact&bg_color=07111c&title_color=72f1bb&text_color=a7c2c3&hide_border=true" alt="Top languages for sahilstha0007" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilstha0007&show_icons=true&bg_color=07111c&title_color=72f1bb&text_color=a7c2c3&icon_color=54d6e8&hide_border=true&include_all_commits=true" alt="GitHub stats for sahilstha0007" loading="lazy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilstha0007&layout=compact&bg_color=07111c&title_color=72f1bb&text_color=a7c2c3&hide_border=true" alt="Top languages for sahilstha0007" loading="lazy" />
 </div>
 
 ---
