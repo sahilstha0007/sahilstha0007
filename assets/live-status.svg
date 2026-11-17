@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Live profile status panel</title>
-  <desc id="desc">A terminal-style status panel showing 20 public repositories, 108 wiki pages, 126 logged updates and GitHub since 2023, with a pulsing activity trace.</desc>
+  <desc id="desc">A terminal-style status panel showing 20 public repositories, 8 followers, 13 following and GitHub since 2023, with a pulsing activity trace.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07111c"/>
@@ -47,15 +47,15 @@
     </g>
     <g>
       <rect x="316" y="82" width="270" height="94" rx="10" fill="#0b1622" stroke="#72f1bb" stroke-width="1.5"/>
-      <text x="336" y="108" font-size="11" fill="#72f1bb" letter-spacing="1.5">WIKI PAGES</text>
-      <text x="336" y="150" font-size="38" font-weight="700" fill="#72f1bb">108</text>
-      <text x="432" y="149" font-size="11" fill="#54d6e8">16E · 46C · 26S</text>
+      <text x="336" y="108" font-size="11" fill="#72f1bb" letter-spacing="1.5">FOLLOWERS</text>
+      <text x="336" y="150" font-size="38" font-weight="700" fill="#72f1bb">8</text>
+      <text x="380" y="149" font-size="11" fill="#54d6e8">● community</text>
     </g>
     <g>
       <rect x="608" y="82" width="270" height="94" rx="10" fill="#0b1622" stroke="#2b5961"/>
-      <text x="628" y="108" font-size="11" fill="#7ca9ad" letter-spacing="1.5">LOG ENTRIES</text>
-      <text x="628" y="150" font-size="38" font-weight="700" fill="#f2f7f7">126</text>
-      <text x="726" y="149" font-size="11" fill="#f6b86b">● maintained</text>
+      <text x="628" y="108" font-size="11" fill="#7ca9ad" letter-spacing="1.5">FOLLOWING</text>
+      <text x="628" y="150" font-size="38" font-weight="700" fill="#f2f7f7">13</text>
+      <text x="682" y="149" font-size="11" fill="#f6b86b">● curious</text>
     </g>
     <g>
       <rect x="900" y="82" width="276" height="94" rx="10" fill="#0b1622" stroke="#2b5961"/>

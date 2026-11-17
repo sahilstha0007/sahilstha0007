@@ -6,7 +6,7 @@
     </picture>
   </a>
 
-**I build dependable software from the database to the browser — then document what I learned in a wiki that maintains itself.**
+**I build dependable software from the database to the browser, with a soft spot for Linux, cloud infrastructure, and practical AI tooling.**
 
 `📍 Kathmandu, Nepal` &nbsp;·&nbsp; `🎓 BIT @ Mid Valley International College` &nbsp;·&nbsp; `🟢 open to internships`
 
@@ -17,13 +17,13 @@
 <br>
 
 ![20 public repos](https://img.shields.io/badge/REPOS-20-12564f?style=for-the-badge&labelColor=07111c)
-![108 wiki pages](https://img.shields.io/badge/WIKI_PAGES-108-12564f?style=for-the-badge&labelColor=07111c)
-![126 logged updates](https://img.shields.io/badge/LOG_ENTRIES-126-12564f?style=for-the-badge&labelColor=07111c)
+![8 followers](https://img.shields.io/badge/FOLLOWERS-8-12564f?style=for-the-badge&labelColor=07111c)
+![13 following](https://img.shields.io/badge/FOLLOWING-13-12564f?style=for-the-badge&labelColor=07111c)
 ![GitHub since 2023](https://img.shields.io/badge/GITHUB_SINCE-2023-12564f?style=for-the-badge&labelColor=07111c)
 
 <br>
 
-<a href="#what-i-do">⚡ What I do</a> &nbsp;·&nbsp; <a href="#work">🛠 Work</a> &nbsp;·&nbsp; <a href="#second-brain">🧠 Wiki</a> &nbsp;·&nbsp; <a href="#github-at-a-glance">📊 Stats</a> &nbsp;·&nbsp; <a href="#activity">📝 Activity</a> &nbsp;·&nbsp; <a href="#contact">📫 Contact</a>
+<a href="#what-i-do">⚡ What I do</a> &nbsp;·&nbsp; <a href="#work">🛠 Work</a> &nbsp;·&nbsp; <a href="#github-at-a-glance">📊 Stats</a> &nbsp;·&nbsp; <a href="#activity">📝 Activity</a> &nbsp;·&nbsp; <a href="#contact">📫 Contact</a>
 
 </div>
 
@@ -48,7 +48,7 @@ $ cat ~/now.md
 → finishing BIT at Mid Valley International College
 → looking for a backend / AI-ML web-dev internship
 → working through the 16-level AI Engineering Roadmap
-→ shipping the portfolio and maintaining the LLM-powered wiki
+→ shipping the portfolio and refining the terminal stack
 ```
 
 ---
@@ -71,20 +71,6 @@ $ cat ~/now.md
 
 ---
 
-<a id="second-brain"></a>
-## 🧠 The second brain
-
-I keep an **Obsidian vault** whose `11 - Sahil's Wiki` folder is a living knowledge base built on the **LLM Wiki Pattern**: instead of re-reading raw documents for every question, an LLM incrementally builds and maintains a persistent, interlinked wiki.
-
-<img src="./assets/second-brain.svg" width="100%" alt="Three-layer knowledge base: raw sources, LLM-maintained wiki, and a schema rulebook, with ingest, query and lint operations." loading="lazy" />
-
-Right now it holds **108 pages** — 16 entities, 46 concepts, 26 source notes, comparisons, synthesis and filed answers — with **126 logged maintenance entries**. The human thinks and curates; the LLM handles the bookkeeping, so cross-references and contradictions stay current instead of rotting.
-
-> [!NOTE]
-> This is the part of my workflow I am most excited about: documentation that compounds instead of decaying.
-
----
-
 ## 🧰 Stack
 
 <p align="center">
@@ -98,7 +84,7 @@ Right now it holds **108 pages** — 16 entities, 46 concepts, 26 source notes, 
 <a id="github-at-a-glance"></a>
 ## 📊 GitHub at a glance
 
-<img src="./assets/live-status.svg" width="100%" alt="Live profile status panel with real repository, wiki and activity counts." loading="lazy" />
+<img src="./assets/live-status.svg" width="100%" alt="Live profile status panel with public repository, follower and activity counts." loading="lazy" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilstha0007&show_icons=true&bg_color=07111c&title_color=72f1bb&text_color=a7c2c3&icon_color=54d6e8&hide_border=true&include_all_commits=true" alt="GitHub stats for sahilstha0007" loading="lazy" />
