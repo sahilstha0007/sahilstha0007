@@ -133,8 +133,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 
 <!-- QUOTE:START -->
 > [!NOTE]
-> Weeks of coding can save you hours of planning.
-> — *Unknown*
+> Make it work, make it right, make it fast.
+> — *Kent Beck*
 <!-- QUOTE:END -->
 
 <details>
@@ -166,11 +166,11 @@ resolving dependencies... done.
 `● LIVE` — refreshed automatically by the profile workflow.
 
 <!-- RECENT_ACTIVITY:START -->
+- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): keep locale switch in place with fixed controls and async text swap](https://github.com/sahilstha0007/Framecraft/commit/23e0d71fb54ed339331a6493f867d7fa93828132)
+- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [feat\(ui\): dim and blur page behind mobile menu](https://github.com/sahilstha0007/Framecraft/commit/6a98459e5b558923958908d467ba63a0e8f39b2a)
 - **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): module-level preloader guard across locale switches](https://github.com/sahilstha0007/Framecraft/commit/203c3d808ec6c45a3b5c464f5802295c3cc9eb90)
 - **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): responsive navbar for tiny screens and dark first paint](https://github.com/sahilstha0007/Framecraft/commit/13f921379238edc7ec708d3cb78f649e292f4998)
 - **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): pin logo width so locale switch keeps nav in place](https://github.com/sahilstha0007/Framecraft/commit/2aa7a26c8d3e98836f0b1bda10e775ac18aa602e)
-- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [feat\(ui\): build hero stats to their final values on load](https://github.com/sahilstha0007/Framecraft/commit/2eef890c4fcfde407202a402a99cd64cc97d92b2)
-- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): responsive logo width and hide preloader on repeat locale loads](https://github.com/sahilstha0007/Framecraft/commit/acbc904e6dcf4cedf0bdfe598a2a2514a0e97fe2)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
