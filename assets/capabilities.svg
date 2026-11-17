@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Four capability domains</title>
+  <desc id="desc">Web products: Next.js, TypeScript, React, Node.js, Laravel, Prisma, REST APIs, Tailwind. Cloud systems: AWS VPC, ALB, ASG, RDS, S3, Secrets Manager, Cloudflare Workers, D1 and KV. Local tooling: Arch Linux, Hyprland, Neovim, tmux, zsh, Lua, lazy.nvim and matugen. Applied AI: RAG pipelines, LangGraph agents, model routing and LLM coding agents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111c"/>
+      <stop offset="1" stop-color="#101b27"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#7ca9ad" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+    <style>
+      .led { transform-box: fill-box; transform-origin: center; animation: blink 1.9s steps(1, end) infinite; }
+      .under { transform-box: fill-box; transform-origin: center; animation: glow 3s ease-in-out infinite; }
+      .under.b { animation-delay: 0.6s; }
+      .under.c { animation-delay: 1.2s; }
+      .under.d { animation-delay: 1.8s; }
+      @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0.2; } }
+      @keyframes glow { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) {
+        .led, .under { animation: none !important; }
+        .under { opacity: 0.8 !important; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="330" rx="12" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="12" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="328" rx="12" fill="none" stroke="#2b5961" stroke-width="2"/>
+
+  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace">
+    <circle class="led" cx="34" cy="38" r="5" fill="#72f1bb"/>
+    <text x="50" y="43" font-size="13" font-weight="700" fill="#72f1bb" letter-spacing="2">CAPABILITIES://MAP</text>
+    <text x="1166" y="43" font-size="11" fill="#7ca9ad" text-anchor="end">04 DOMAINS · END TO END</text>
+    <path d="M24 62H1176" stroke="#2b5961" stroke-width="1.5"/>
+
+    <!-- 01 Web products -->
+    <g>
+      <rect x="24" y="84" width="258" height="210" rx="10" fill="#0b1622" stroke="#33555c"/>
+      <text x="42" y="112" font-size="12" font-weight="700" fill="#72f1bb" letter-spacing="1">01 / WEB PRODUCTS</text>
+      <path d="M42 124H264" stroke="#2b5961"/>
+      <text x="42" y="150" font-size="12" fill="#d7e5e5">Next.js · TypeScript</text>
+      <text x="42" y="172" font-size="12" fill="#d7e5e5">React · Node.js</text>
+      <text x="42" y="194" font-size="12" fill="#d7e5e5">Laravel · Prisma</text>
+      <text x="42" y="216" font-size="12" fill="#d7e5e5">REST APIs · Tailwind</text>
+      <text x="42" y="252" font-size="10" fill="#72f1bb">→ browser to database</text>
+      <rect class="under" x="24" y="290" width="258" height="4" rx="2" fill="#72f1bb"/>
+    </g>
+
+    <!-- 02 Cloud systems -->
+    <g>
+      <rect x="322" y="84" width="258" height="210" rx="10" fill="#0b1622" stroke="#33555c"/>
+      <text x="340" y="112" font-size="12" font-weight="700" fill="#54d6e8" letter-spacing="1">02 / CLOUD SYSTEMS</text>
+      <path d="M340 124H562" stroke="#2b5961"/>
+      <text x="340" y="150" font-size="12" fill="#d7e5e5">AWS VPC · ALB · ASG</text>
+      <text x="340" y="172" font-size="12" fill="#d7e5e5">RDS · S3 · Secrets</text>
+      <text x="340" y="194" font-size="12" fill="#d7e5e5">Cloudflare Workers</text>
+      <text x="340" y="216" font-size="12" fill="#d7e5e5">D1 · KV · edge</text>
+      <text x="340" y="252" font-size="10" fill="#54d6e8">→ deployed, not demoed</text>
+      <rect class="under b" x="322" y="290" width="258" height="4" rx="2" fill="#54d6e8"/>
+    </g>
+
+    <!-- 03 Local tooling -->
+    <g>
+      <rect x="620" y="84" width="258" height="210" rx="10" fill="#0b1622" stroke="#33555c"/>
+      <text x="638" y="112" font-size="12" font-weight="700" fill="#f6b86b" letter-spacing="1">03 / LOCAL TOOLING</text>
+      <path d="M638 124H860" stroke="#2b5961"/>
+      <text x="638" y="150" font-size="12" fill="#d7e5e5">Arch Linux · Hyprland</text>
+      <text x="638" y="172" font-size="12" fill="#d7e5e5">Neovim · tmux · zsh</text>
+      <text x="638" y="194" font-size="12" fill="#d7e5e5">Lua · lazy.nvim</text>
+      <text x="638" y="216" font-size="12" fill="#d7e5e5">matugen · theming</text>
+      <text x="638" y="252" font-size="10" fill="#f6b86b">→ home is the terminal</text>
+      <rect class="under c" x="620" y="290" width="258" height="4" rx="2" fill="#f6b86b"/>
+    </g>
+
+    <!-- 04 Applied AI -->
+    <g>
+      <rect x="918" y="84" width="258" height="210" rx="10" fill="#0b1622" stroke="#33555c"/>
+      <text x="936" y="112" font-size="12" font-weight="700" fill="#f2f7f7" letter-spacing="1">04 / APPLIED AI</text>
+      <path d="M936 124H1158" stroke="#2b5961"/>
+      <text x="936" y="150" font-size="12" fill="#d7e5e5">RAG pipelines</text>
+      <text x="936" y="172" font-size="12" fill="#d7e5e5">LangGraph agents</text>
+      <text x="936" y="194" font-size="12" fill="#d7e5e5">Model routing</text>
+      <text x="936" y="216" font-size="12" fill="#d7e5e5">LLM coding agents</text>
+      <text x="936" y="252" font-size="10" fill="#f2f7f7">→ practical, not theoretical</text>
+      <rect class="under d" x="918" y="290" width="258" height="4" rx="2" fill="#f2f7f7"/>
+    </g>
+
+    <text x="24" y="318" font-size="10" fill="#5f8286">learn by building · ship the small idea · keep the notes</text>
+  </g>
+</svg>

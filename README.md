@@ -6,7 +6,7 @@
     </picture>
   </a>
 
-**I build dependable software from the database to the browser, with a soft spot for Linux, cloud infrastructure, and practical AI tooling.**
+<img src="./assets/tagline.svg" width="100%" alt="I build dependable software from the database to the browser, with a soft spot for Linux, cloud infrastructure, and practical AI tooling." />
 
 `📍 Kathmandu, Nepal` &nbsp;·&nbsp; `🎓 BIT @ Mid Valley International College` &nbsp;·&nbsp; `🟢 open to internships`
 
@@ -32,14 +32,12 @@
 <a id="what-i-do"></a>
 ## ⚡ What I do
 
-> `interface → API → infrastructure → feedback`
+<img src="./assets/signal-flow.svg" width="100%" alt="Build loop: interface, API, infrastructure, feedback." loading="lazy" />
 
-- **Web products** — Next.js · TypeScript · React · Laravel · Node.js · Prisma
-- **Cloud systems** — AWS (VPC · ALB · ASG · RDS), Cloudflare Workers · D1 · KV
-- **Local tooling** — Arch Linux · Hyprland · Neovim · tmux · zsh · Lua
-- **Applied AI** — RAG pipelines · LangGraph · model routing · LLM coding agents
+<img src="./assets/capabilities.svg" width="100%" alt="Four capability domains: web products (Next.js, TypeScript, React, Node.js, Laravel, Prisma), cloud systems (AWS VPC, ALB, ASG, RDS, S3, Secrets Manager, Cloudflare Workers, D1, KV), local tooling (Arch Linux, Hyprland, Neovim, tmux, zsh, Lua, lazy.nvim, matugen), and applied AI (RAG pipelines, LangGraph agents, model routing, LLM coding agents)." loading="lazy" />
 
-I am a BIT student who learns by building: small experiments become real apps, and every project leaves behind notes I can actually reuse.
+> [!NOTE]
+> I am a BIT student who learns by building: small experiments become real apps, and every project leaves behind notes I can actually reuse.
 
 ### 🎯 Now
 
@@ -107,7 +105,8 @@ $ cat ~/now.md
 
 ## 💬 Guestbook
 
-`LOG //` Leave a first-line message on [issue #1](https://github.com/sahilstha0007/sahilstha0007/issues/1). The profile workflow renders the latest signatures here.
+> [!TIP]
+> `LOG //` Leave a first-line message on [issue #1](https://github.com/sahilstha0007/sahilstha0007/issues/1). The profile workflow renders the latest signatures here.
 
 <!-- GUESTBOOK:START -->
 _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilstha0007/issues/1)_
@@ -164,7 +163,8 @@ resolving dependencies... done.
 <a id="contact"></a>
 ## 📫 Let's build something
 
-I am open to **backend / AI-ML web-dev internships** and to interesting collaborations. If you want to talk about Next.js, AWS, developer tooling, or knowledge systems, my inbox is open.
+> [!TIP]
+> I am open to **backend / AI-ML web-dev internships** and to interesting collaborations. If you want to talk about Next.js, AWS, developer tooling, or how I build, my inbox is open.
 
 <div align="center">
 

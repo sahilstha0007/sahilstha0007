@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
+  <title id="title">Profile tagline</title>
+  <desc id="desc">I build dependable software from the database to the browser, with a soft spot for Linux, cloud infrastructure, and practical AI tooling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111c"/>
+      <stop offset="1" stop-color="#101b27"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#72f1bb"/>
+      <stop offset="0.55" stop-color="#54d6e8"/>
+      <stop offset="1" stop-color="#f6b86b"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#7ca9ad" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <style>
+      .rule { transform-box: fill-box; transform-origin: left center; animation: sweep 5s ease-in-out infinite; }
+      @keyframes sweep { 0%, 100% { transform: scaleX(0.15); opacity: 0.4; } 50% { transform: scaleX(1); opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .rule { animation: none !important; transform: scaleX(1) !important; opacity: 0.8 !important; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="170" rx="12" fill="url(#bg)"/>
+  <rect width="1200" height="170" rx="12" fill="url(#grid)"/>
+  <rect x="0" y="0" width="5" height="170" rx="2" fill="url(#ink)"/>
+
+  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace">
+    <text x="34" y="58" font-size="29" font-weight="700" fill="url(#ink)">I build dependable software from the database to the browser,</text>
+    <text x="34" y="98" font-size="20" fill="#a7c2c3">with a soft spot for Linux, cloud infrastructure,</text>
+    <text x="34" y="130" font-size="20" fill="#7ca9ad">and practical AI tooling.</text>
+    <rect class="rule" x="34" y="148" width="320" height="3" rx="1.5" fill="url(#ink)"/>
+  </g>
+</svg>
