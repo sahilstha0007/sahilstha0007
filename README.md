@@ -118,8 +118,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 
 <!-- QUOTE:START -->
 > [!NOTE]
-> Make it work, make it right, make it fast.
-> — *Kent Beck*
+> Deleted code is debugged code.
+> — *Jeff Sickel*
 <!-- QUOTE:END -->
 
 <details>
@@ -151,11 +151,11 @@ resolving dependencies... done.
 `● LIVE` — refreshed automatically by the profile workflow.
 
 <!-- RECENT_ACTIVITY:START -->
+- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): suppress preloader before locale navigation](https://github.com/sahilstha0007/Framecraft/commit/bb99b272f3f0ef60a5a9d10fca07f6430506fdd2)
+- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [feat\(ui\): mobile touch targets, native touch scroll and page transitions](https://github.com/sahilstha0007/Framecraft/commit/316ebd798bb8c0e5d2ba9b8a00b17873ffa9bbf9)
+- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [chore\(deploy\): colocate Render service with Neon us-east-2](https://github.com/sahilstha0007/Framecraft/commit/e136cc21dfea368a4c9c35ab090f7d037d3f6a46)
 - **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): play language shader across full locale reload](https://github.com/sahilstha0007/Framecraft/commit/3c6ef00dbcd5e6257447e1803393c7454f6bf342)
 - **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(build\): use next/navigation pathname in shader transition](https://github.com/sahilstha0007/Framecraft/commit/fce782a7698fe8082b210e08a2e27400454753bf)
-- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [docs\(checkout\): add portfolio demo and sandbox payment notice](https://github.com/sahilstha0007/Framecraft/commit/67fc13bb3f6e1040c4d56d6b33e657c8f94ea0c2)
-- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): keep locale switch in place with fixed controls and async text swap](https://github.com/sahilstha0007/Framecraft/commit/23e0d71fb54ed339331a6493f867d7fa93828132)
-- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [feat\(ui\): dim and blur page behind mobile menu](https://github.com/sahilstha0007/Framecraft/commit/6a98459e5b558923958908d467ba63a0e8f39b2a)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
