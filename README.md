@@ -118,8 +118,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 
 <!-- QUOTE:START -->
 > [!NOTE]
-> Talk is cheap. Show me the code.
-> — *Linus Torvalds*
+> Any sufficiently advanced bug is indistinguishable from a feature.
+> — *Eric S. Raymond*
 <!-- QUOTE:END -->
 
 <details>
