@@ -118,8 +118,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 
 <!-- QUOTE:START -->
 > [!NOTE]
-> Any sufficiently advanced bug is indistinguishable from a feature.
-> — *Eric S. Raymond*
+> It works on my machine.
+> — *Every developer, eventually*
 <!-- QUOTE:END -->
 
 <details>
