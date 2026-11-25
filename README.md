@@ -151,11 +151,11 @@ resolving dependencies... done.
 `● LIVE` — refreshed automatically by the profile workflow.
 
 <!-- RECENT_ACTIVITY:START -->
+- **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(bridge\): quote pids when killing app instances](https://github.com/sahilstha0007/mydotfiles/commit/1886dd53864a294579a1378fceebaf295692b39b)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [perf\(nvim\): lazy-load mason-tool installer to restore startup speed](https://github.com/sahilstha0007/mydotfiles/commit/225119f6608520b27553b783526586dd75c00477)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [fix\(contrast\): accept both quote styles in matugen palette parsing](https://github.com/sahilstha0007/mydotfiles/commit/14e3dcab1f05c14f8c71db25bb1ff66230c267e5)
 - **[sahilstha0007/mydotfiles](https://github.com/sahilstha0007/mydotfiles)** — [chore: sync dotfiles, add stow layout and terminal-stack docs](https://github.com/sahilstha0007/mydotfiles/commit/91f3c34e29226f6caf4574a1552cc5b8e801043f)
 - **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [feat\(media\): replace stock placeholders with topic-matched product imagery](https://github.com/sahilstha0007/Framecraft/commit/de82adb05c7b7cfee0e84702c27cb14038435875)
-- **[sahilstha0007/Framecraft](https://github.com/sahilstha0007/Framecraft)** — [fix\(ui\): suppress preloader before locale navigation](https://github.com/sahilstha0007/Framecraft/commit/bb99b272f3f0ef60a5a9d10fca07f6430506fdd2)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
