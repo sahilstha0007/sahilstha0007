@@ -118,8 +118,8 @@ _No signatures yet — [be the first!](https://github.com/sahilstha0007/sahilsth
 
 <!-- QUOTE:START -->
 > [!NOTE]
-> Simplicity is prerequisite for reliability.
-> — *Edsger W. Dijkstra*
+> Weeks of coding can save you hours of planning.
+> — *Unknown*
 <!-- QUOTE:END -->
 
 <details>
